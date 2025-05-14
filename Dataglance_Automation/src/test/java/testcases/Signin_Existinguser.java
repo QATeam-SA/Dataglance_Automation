@@ -21,6 +21,7 @@ public class Signin_Existinguser {
     public void login() throws InterruptedException {
     	
     	driver.manage().window().maximize();
+    	Thread.sleep(4000);
 		driver.get(prop.getProperty("dg_url"));
 		Thread.sleep(4000);
 		driver.findElement(By.xpath(prop.getProperty("user_Id"))).sendKeys(prop.getProperty("Enter_UserId"));
@@ -29,4 +30,5 @@ public class Signin_Existinguser {
 		Thread.sleep(2000);
 		driver.findElement(By.xpath(prop.getProperty("Login_Button"))).click();
 		logger.info("SignIn successfully");
-}}
+}
+	}
