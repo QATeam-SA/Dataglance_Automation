@@ -9,8 +9,10 @@
 
 	<test thread-count="5" name="Signin" enabled="true">
 		<classes>
-			<class name="testcases.Signin_Existinguser" />
+			<class name="testcases.Signin" />
+			<class name="testcases.Basiccontrol" />
 		</classes>
 
 	</test> 
 </suite> 
+	

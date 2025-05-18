@@ -1,2 +1,1186 @@
 16:34:39.884 [main] INFO  testcases.Signin_Existinguser - SignIn successfully
 17:31:34.986 [main] INFO  testcases.Signin_Existinguser - SignIn successfully
+17:44:45.725 [main] INFO  testcases.Signin - SignIn successfully
+17:58:08.090 [main] INFO  testcases.Signin - SignIn successfully
+18:03:40.927 [main] INFO  testcases.Signin - SignIn successfully
+18:07:59.950 [main] INFO  testcases.Signin - SignIn successfully
+18:11:12.797 [main] INFO  testcases.Signin - SignIn successfully
+18:19:46.293 [main] INFO  testcases.Signin - SignIn successfully
+18:23:36.696 [main] INFO  testcases.Signin - SignIn successfully
+18:26:33.705 [main] INFO  testcases.Signin - SignIn successfully
+18:33:25.777 [main] INFO  testcases.Signin - SignIn successfully
+18:43:49.832 [main] INFO  testcases.Signin - SignIn successfully
+21:05:58.690 [main] INFO  testcases.Signin - SignIn successfully
+21:11:35.595 [main] INFO  testcases.Signin - SignIn successfully
+21:24:23.257 [main] INFO  testcases.Signin - SignIn successfully
+11:44:17.277 [main] INFO  testcases.Signin - SignIn successfully
+11:46:53.286 [main] INFO  testcases.Signin - SignIn successfully
+11:49:16.265 [main] INFO  testcases.Signin - SignIn successfully
+11:51:20.614 [main] INFO  testcases.Signin - SignIn successfully
+12:08:07.587 [main] INFO  testcases.Signin - SignIn successfully
+12:11:05.963 [main] INFO  testcases.Signin - SignIn successfully
+12:13:27.945 [main] INFO  testcases.Signin - SignIn successfully
+12:16:04.120 [main] INFO  testcases.Signin - SignIn successfully
+12:19:25.486 [main] INFO  testcases.Signin - SignIn successfully
+12:21:28.929 [main] INFO  testcases.Signin - SignIn successfully
+12:26:50.590 [main] INFO  testcases.Signin - SignIn successfully
+12:30:07.996 [main] INFO  testcases.Signin - SignIn successfully
+12:34:18.374 [main] INFO  testcases.Signin - SignIn successfully
+12:39:47.255 [main] INFO  testcases.Signin - SignIn successfully
+12:48:00.224 [main] INFO  testcases.Signin - SignIn successfully
+12:51:48.237 [main] INFO  testcases.Signin - SignIn successfully
+12:55:51.148 [main] INFO  testcases.Signin - SignIn successfully
+13:01:53.608 [main] INFO  testcases.Signin - SignIn successfully
+14:14:04.871 [main] INFO  testcases.Signin - SignIn successfully
+14:17:59.624 [main] INFO  testcases.Signin - SignIn successfully
+14:25:46.571 [main] INFO  testcases.Signin - SignIn successfully
+14:34:54.444 [main] INFO  testcases.Signin - SignIn successfully
+14:37:54.431 [main] INFO  testcases.Signin - SignIn successfully
+14:41:19.813 [main] INFO  testcases.Signin - SignIn successfully
+14:44:20.441 [main] INFO  testcases.Signin - SignIn successfully
+14:51:35.683 [main] INFO  testcases.Signin - SignIn successfully
+15:01:00.468 [main] INFO  testcases.Signin - SignIn successfully
+15:06:41.343 [main] INFO  testcases.Signin - SignIn successfully
+15:10:51.469 [main] INFO  testcases.Signin - SignIn successfully
+15:15:26.503 [main] INFO  testcases.Signin - SignIn successfully
+15:19:46.431 [main] INFO  testcases.Signin - SignIn successfully
+15:24:51.285 [main] INFO  testcases.Signin - SignIn successfully
+15:30:46.659 [main] INFO  testcases.Signin - SignIn successfully
+15:34:55.936 [main] INFO  testcases.Signin - SignIn successfully
+15:42:45.020 [main] INFO  testcases.Signin - SignIn successfully
+15:55:01.385 [main] INFO  testcases.Signin - SignIn successfully
+16:05:59.387 [main] INFO  testcases.Signin - SignIn successfully
+16:12:43.870 [main] INFO  testcases.Signin - SignIn successfully
+16:23:39.211 [main] INFO  testcases.Signin - SignIn successfully
+16:29:12.447 [main] INFO  testcases.Signin - SignIn successfully
+16:35:02.353 [main] INFO  testcases.Signin - SignIn successfully
+16:40:34.102 [main] INFO  testcases.Signin - SignIn successfully
+16:50:18.087 [main] INFO  testcases.Signin - SignIn successfully
+16:57:39.799 [main] INFO  testcases.Signin - SignIn successfully
+17:41:18.969 [main] INFO  testcases.Signin - SignIn successfully
+17:50:18.346 [main] INFO  testcases.Signin - SignIn successfully
+17:55:43.486 [main] INFO  testcases.Signin - SignIn successfully
+17:58:48.432 [main] INFO  testcases.Signin - SignIn successfully
+18:03:45.979 [main] INFO  testcases.Signin - SignIn successfully
+18:07:10.622 [main] INFO  testcases.Signin - SignIn successfully
+18:10:24.250 [main] INFO  testcases.Signin - SignIn successfully
+18:14:58.653 [main] INFO  testcases.Signin - SignIn successfully
+18:18:15.265 [main] INFO  testcases.Signin - SignIn successfully
+18:21:02.283 [main] INFO  testcases.Signin - SignIn successfully
+18:23:59.192 [main] INFO  testcases.Signin - SignIn successfully
+15:33:03.304 [main] INFO  testcases.Signin - SignIn successfully
+15:38:29.207 [main] INFO  testcases.Signin - SignIn successfully
+15:42:01.597 [main] INFO  testcases.Signin - SignIn successfully
+15:47:18.173 [main] INFO  testcases.Signin - SignIn successfully
+15:53:38.862 [main] INFO  testcases.Signin - SignIn successfully
+16:00:06.195 [main] INFO  testcases.Signin - SignIn successfully
+16:05:19.193 [main] INFO  testcases.Signin - SignIn successfully
+16:09:23.211 [main] INFO  testcases.Signin - SignIn successfully
+16:21:54.036 [main] INFO  testcases.Signin - SignIn successfully
+16:27:30.991 [main] INFO  testcases.Signin - SignIn successfully
+18:40:58.408 [main] INFO  testcases.Signin - SignIn successfully
+18:54:51.303 [main] INFO  testcases.Signin - SignIn successfully
+19:13:11.501 [main] INFO  testcases.Signin - SignIn successfully
+19:19:40.653 [main] INFO  testcases.Signin - SignIn successfully
+21:47:35.397 [main] INFO  testcases.Signin - SignIn successfully
+21:54:23.516 [main] INFO  testcases.Signin - SignIn successfully
+22:00:59.957 [main] INFO  testcases.Signin - SignIn successfully
+22:11:38.728 [main] INFO  testcases.Signin - SignIn successfully
+22:22:25.083 [main] INFO  testcases.Signin - SignIn successfully
+22:27:05.336 [main] INFO  testcases.Signin - SignIn successfully
+22:33:21.820 [main] INFO  testcases.Signin - SignIn successfully
+22:41:34.205 [main] INFO  testcases.Signin - SignIn successfully
+22:51:00.622 [main] INFO  testcases.Signin - SignIn successfully
+22:56:33.419 [main] INFO  testcases.Signin - SignIn successfully
+23:02:47.361 [main] INFO  testcases.Signin - SignIn successfully
+23:20:39.344 [main] INFO  testcases.Signin - SignIn successfully
+23:28:12.961 [main] INFO  testcases.Signin - SignIn successfully
+23:32:57.739 [main] INFO  testcases.Signin - SignIn successfully
+23:48:40.006 [main] INFO  testcases.Signin - SignIn successfully
+08:36:20.961 [main] INFO  testcases.Signin - SignIn successfully
+08:43:40.482 [main] INFO  testcases.Signin - SignIn successfully
+08:49:12.081 [main] INFO  testcases.Signin - SignIn successfully
+08:54:43.258 [main] INFO  testcases.Signin - SignIn successfully
+08:59:09.497 [main] INFO  testcases.Signin - SignIn successfully
+09:03:39.021 [main] INFO  testcases.Signin - SignIn successfully
+09:07:01.168 [main] INFO  testcases.Signin - SignIn successfully
+09:11:48.902 [main] INFO  testcases.Signin - SignIn successfully
+09:23:14.907 [main] INFO  testcases.Signin - SignIn successfully
+09:28:12.312 [main] INFO  testcases.Signin - SignIn successfully
+09:31:42.837 [main] INFO  testcases.Signin - SignIn successfully
+09:34:34.207 [main] INFO  testcases.Signin - SignIn successfully
+09:38:17.448 [main] INFO  testcases.Signin - SignIn successfully
+09:40:56.189 [main] INFO  testcases.Signin - SignIn successfully
+09:44:50.267 [main] INFO  testcases.Signin - SignIn successfully
+09:47:55.180 [main] INFO  testcases.Signin - SignIn successfully
+09:54:14.932 [main] INFO  testcases.Signin - SignIn successfully
+09:58:34.977 [main] INFO  testcases.Signin - SignIn successfully
+10:00:36.158 [main] INFO  testcases.Signin - SignIn successfully
+10:02:42.277 [main] INFO  testcases.Signin - SignIn successfully
+10:19:28.337 [main] INFO  testcases.Signin - SignIn successfully
+10:22:16.444 [main] INFO  testcases.Signin - SignIn successfully
+10:28:02.758 [main] INFO  testcases.Signin - SignIn successfully
+10:30:21.473 [main] INFO  testcases.Signin - SignIn successfully
+10:32:43.000 [main] INFO  testcases.Signin - SignIn successfully
+10:39:57.002 [main] INFO  testcases.Signin - SignIn successfully
+11:44:21.407 [main] INFO  testcases.Signin - SignIn successfully
+11:47:01.407 [main] INFO  testcases.Signin - SignIn successfully
+11:55:29.457 [main] INFO  testcases.Signin - SignIn successfully
+11:57:44.692 [main] INFO  testcases.Signin - SignIn successfully
+12:03:04.728 [main] INFO  testcases.Signin - SignIn successfully
+12:05:46.585 [main] INFO  testcases.Signin - SignIn successfully
+12:07:08.589 [main] INFO  testcases.Signin - SignIn successfully
+12:08:22.331 [main] INFO  testcases.Signin - SignIn successfully
+12:13:48.551 [main] INFO  testcases.Signin - SignIn successfully
+12:16:41.524 [main] INFO  testcases.Signin - SignIn successfully
+15:26:29.050 [main] INFO  testcases.Signin - SignIn successfully
+15:31:33.840 [main] INFO  testcases.Signin - SignIn successfully
+15:35:44.308 [main] INFO  testcases.Signin - SignIn successfully
+15:38:54.581 [main] INFO  testcases.Signin - SignIn successfully
+15:44:38.317 [main] INFO  testcases.Signin - SignIn successfully
+15:46:48.692 [main] INFO  testcases.Signin - SignIn successfully
+15:49:17.276 [main] INFO  testcases.Signin - SignIn successfully
+15:50:58.111 [main] INFO  testcases.Signin - SignIn successfully
+15:56:45.554 [main] INFO  testcases.Signin - SignIn successfully
+15:58:29.929 [main] INFO  testcases.Signin - SignIn successfully
+16:00:10.910 [main] INFO  testcases.Signin - SignIn successfully
+16:04:36.890 [main] INFO  testcases.Signin - SignIn successfully
+16:06:53.777 [main] INFO  testcases.Signin - SignIn successfully
+16:52:41.320 [main] INFO  testcases.Signin - SignIn successfully
+16:59:50.460 [main] INFO  testcases.Signin - SignIn successfully
+17:05:29.307 [main] INFO  testcases.Signin - SignIn successfully
+17:09:50.358 [main] INFO  testcases.Signin - SignIn successfully
+18:46:02.664 [main] INFO  testcases.Signin - SignIn successfully
+18:50:52.818 [main] INFO  testcases.Signin - SignIn successfully
+18:59:59.678 [main] INFO  testcases.Signin - SignIn successfully
+19:02:52.933 [main] INFO  testcases.Signin - SignIn successfully
+19:07:03.790 [main] INFO  testcases.Signin - SignIn successfully
+19:11:47.001 [main] INFO  testcases.Signin - SignIn successfully
+19:18:15.327 [main] INFO  testcases.Signin - SignIn successfully
+19:21:18.503 [main] INFO  testcases.Signin - SignIn successfully
+19:24:37.419 [main] INFO  testcases.Signin - SignIn successfully
+19:30:42.672 [main] INFO  testcases.Signin - SignIn successfully
+19:34:05.845 [main] INFO  testcases.Signin - SignIn successfully
+19:34:56.051 [main] ERROR testcases.Basiccontrol - Test case failed due to: 
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //div[@class='col-md-3 col-lg-3-viewProp col-xs-3 col-sm-3 formcomponents pl-0 pr-2 MobileDispalyNone ng-tns-c229-18 ng-star-inserted']//span[@class='ng-tns-c229-18 btn btn-primary btn-sm btn-block formcomponent drag-copy ng-star-inserted'][normalize-space()='Repeat Step'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.94 (fa0be0b33deb..., userDataDir: C:\Users\VSRIKA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50006}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50006/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6ddb54ad7a51c79a92731bdc79cc5b58
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-server-4.32.0%20(1).jar:?]
+	at testcases.Basiccontrol.section(Basiccontrol.java:76) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.4.0.jar:7.4.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:794) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestRunner.run(TestRunner.java:596) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1063) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.run(TestNG.java:1031) [testng-7.4.0.jar:7.4.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+19:38:17.601 [main] INFO  testcases.Signin - SignIn successfully
+19:39:05.627 [main] ERROR testcases.Basiccontrol - ❌ Test case failed: 
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //div[@class='col-md-3 col-lg-3-viewProp col-xs-3 col-sm-3 formcomponents pl-0 pr-2 MobileDispalyNone ng-tns-c229-18 ng-star-inserted']//span[@class='ng-tns-c229-18 btn btn-primary btn-sm btn-block formcomponent drag-copy ng-star-inserted'][normalize-space()='Repeat Step'] (tried for 30 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-server-4.32.0%20(1).jar:?]
+	at testcases.Basiccontrol.scrollAndClick(Basiccontrol.java:25) ~[test-classes/:?]
+	at testcases.Basiccontrol.section(Basiccontrol.java:82) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.4.0.jar:7.4.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:794) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestRunner.run(TestRunner.java:596) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1063) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.run(TestNG.java:1031) [testng-7.4.0.jar:7.4.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='col-md-3 col-lg-3-viewProp col-xs-3 col-sm-3 formcomponents pl-0 pr-2 MobileDispalyNone ng-tns-c229-18 ng-star-inserted']//span[@class='ng-tns-c229-18 btn btn-primary btn-sm btn-block formcomponent drag-copy ng-star-inserted'][normalize-space()='Repeat Step']"}
+  (Session info: chrome=136.0.7103.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [74d79a020b9ba516046652b245f896f3, findElement {value=//div[@class='col-md-3 col-lg-3-viewProp col-xs-3 col-sm-3 formcomponents pl-0 pr-2 MobileDispalyNone ng-tns-c229-18 ng-star-inserted']//span[@class='ng-tns-c229-18 btn btn-primary btn-sm btn-block formcomponent drag-copy ng-star-inserted'][normalize-space()='Repeat Step'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.94 (fa0be0b33deb..., userDataDir: C:\Users\VSRIKA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50290}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50290/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 74d79a020b9ba516046652b245f896f3
+	at jdk.internal.reflect.GeneratedConstructorAccessor19.newInstance(Unknown Source) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:171) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:168) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203) ~[selenium-server-4.32.0%20(1).jar:?]
+	... 30 more
+19:41:36.521 [main] INFO  testcases.Signin - SignIn successfully
+19:41:56.419 [main] INFO  testcases.Basiccontrol - ✅ Test case executed successfully.
+19:44:48.315 [main] ERROR testcases.Basiccontrol - ❌ Test case failed: 
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: (//a[@class='hvr-grow'])[4] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.94 (fa0be0b33deb..., userDataDir: C:\Users\VSRIKA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50771}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50771/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c4a2c743e42772dabc3caeaca6819541
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-server-4.32.0%20(1).jar:?]
+	at testcases.Basiccontrol.section(Basiccontrol.java:41) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.4.0.jar:7.4.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:794) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestRunner.run(TestRunner.java:596) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1063) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.run(TestNG.java:1031) [testng-7.4.0.jar:7.4.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+19:46:17.517 [main] INFO  testcases.Signin - SignIn successfully
+19:46:36.595 [main] INFO  testcases.Basiccontrol - ✅ Test case executed successfully.
+19:58:41.638 [main] INFO  testcases.Signin - SignIn successfully
+19:59:01.354 [main] INFO  testcases.Basiccontrol - ✅ Test case executed successfully.
+20:06:07.534 [main] ERROR testcases.Basiccontrol - ❌ Test case failed: 
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: (//a[@class='hvr-grow'])[4] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.94 (fa0be0b33deb..., userDataDir: C:\Users\VSRIKA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52076}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52076/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c9f323ed574c7177438220aa5e36f40b
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-server-4.32.0%20(1).jar:?]
+	at testcases.Basiccontrol.section(Basiccontrol.java:41) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.4.0.jar:7.4.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:794) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestRunner.run(TestRunner.java:596) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1063) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.run(TestNG.java:1031) [testng-7.4.0.jar:7.4.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+20:08:00.974 [main] INFO  testcases.Signin - SignIn successfully
+20:08:34.509 [main] ERROR testcases.Basiccontrol - ❌ Test case failed: 
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //textarea[@name='header'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.94 (fa0be0b33deb..., userDataDir: C:\Users\VSRIKA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52205}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52205/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6d2ef5cf0be8e43f055469c470bd3c33
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-server-4.32.0%20(1).jar:?]
+	at testcases.Basiccontrol.waitAndType(Basiccontrol.java:32) ~[test-classes/:?]
+	at testcases.Basiccontrol.section(Basiccontrol.java:44) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.4.0.jar:7.4.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:794) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestRunner.run(TestRunner.java:596) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1063) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.run(TestNG.java:1031) [testng-7.4.0.jar:7.4.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+20:09:36.236 [main] INFO  testcases.Signin - SignIn successfully
+20:10:15.320 [main] INFO  testcases.Basiccontrol - ✅ Test case executed successfully.
+20:58:13.988 [main] INFO  testcases.Signin - SignIn successfully
+20:58:34.676 [main] INFO  testcases.Basiccontrol - ✅ Test case executed successfully.
+21:07:56.799 [main] INFO  testcases.Signin - SignIn successfully
+21:10:14.676 [main] INFO  testcases.Signin - SignIn successfully
+21:10:28.625 [main] ERROR testcases.Basiccontrol - ❌ Test case failed: 
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"Section1"}
+  (Session info: chrome=136.0.7103.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [30eb44b4cfd909c107087108c137a56c, findElement {value=Section1, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.94 (fa0be0b33deb..., userDataDir: C:\Users\VSRIKA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55873}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55873/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 30eb44b4cfd909c107087108c137a56c
+	at jdk.internal.reflect.GeneratedConstructorAccessor19.newInstance(Unknown Source) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-server-4.32.0%20(1).jar:?]
+	at testcases.Basiccontrol.section(Basiccontrol.java:53) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.4.0.jar:7.4.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:794) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestRunner.run(TestRunner.java:596) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1063) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.run(TestNG.java:1031) [testng-7.4.0.jar:7.4.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+21:11:53.771 [main] INFO  testcases.Signin - SignIn successfully
+21:14:56.864 [main] INFO  testcases.Signin - SignIn successfully
+21:15:11.976 [main] ERROR testcases.Basiccontrol - ❌ Test case failed: 
+org.openqa.selenium.JavascriptException: javascript error: Cannot read properties of null (reading 'scrollIntoView')
+  (Session info: chrome=136.0.7103.114)
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6b23d89a42a4331bd305e6f63737fb72, executeScript {args=[null], script=arguments[0].scrollIntoView(true);}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.94 (fa0be0b33deb..., userDataDir: C:\Users\VSRIKA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56178}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56178/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b23d89a42a4331bd305e6f63737fb72
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:476) ~[selenium-server-4.32.0%20(1).jar:?]
+	at testcases.Basiccontrol.section(Basiccontrol.java:57) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.4.0.jar:7.4.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:794) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestRunner.run(TestRunner.java:596) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1063) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.run(TestNG.java:1031) [testng-7.4.0.jar:7.4.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+21:27:02.778 [main] INFO  testcases.Signin - SignIn successfully
+21:27:16.249 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+21:32:48.521 [main] INFO  testcases.Signin - SignIn successfully
+21:33:00.919 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+21:38:37.984 [main] INFO  testcases.Signin - SignIn successfully
+21:38:50.991 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+21:46:37.881 [main] INFO  testcases.Signin - SignIn successfully
+21:46:50.906 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+21:50:16.057 [main] INFO  testcases.Signin - SignIn successfully
+21:50:29.669 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+21:52:55.585 [main] INFO  testcases.Signin - SignIn successfully
+21:53:09.151 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+21:55:36.099 [main] INFO  testcases.Signin - SignIn successfully
+21:55:49.637 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+21:56:55.546 [main] INFO  testcases.Signin - SignIn successfully
+21:57:08.795 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+21:59:13.775 [main] INFO  testcases.Signin - SignIn successfully
+21:59:28.561 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+22:01:19.138 [main] INFO  testcases.Signin - SignIn successfully
+22:01:32.086 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+22:07:30.212 [main] INFO  testcases.Signin - SignIn successfully
+22:07:43.377 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+22:11:02.041 [main] INFO  testcases.Signin - SignIn successfully
+22:11:15.793 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+22:13:05.467 [main] INFO  testcases.Signin - SignIn successfully
+22:13:18.306 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+22:15:04.199 [main] INFO  testcases.Signin - SignIn successfully
+22:15:18.456 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+22:16:24.539 [main] INFO  testcases.Signin - SignIn successfully
+22:16:37.487 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+22:18:19.099 [main] INFO  testcases.Signin - SignIn successfully
+22:18:33.416 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+22:19:33.740 [main] INFO  testcases.Signin - SignIn successfully
+22:19:47.192 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+22:22:36.995 [main] INFO  testcases.Signin - SignIn successfully
+22:22:50.999 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+22:24:19.419 [main] INFO  testcases.Signin - SignIn successfully
+22:24:32.239 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+22:26:07.538 [main] INFO  testcases.Signin - SignIn successfully
+22:26:20.436 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+22:32:45.949 [main] INFO  testcases.Signin - SignIn successfully
+22:32:59.608 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+22:34:08.138 [main] INFO  testcases.Signin - SignIn successfully
+22:34:21.303 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+22:38:45.495 [main] INFO  testcases.Signin - SignIn successfully
+22:38:57.507 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+22:45:35.881 [main] INFO  testcases.Signin - SignIn successfully
+22:45:51.498 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+22:46:49.069 [main] INFO  testcases.Signin - SignIn successfully
+22:47:03.280 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+23:18:51.316 [main] ERROR testcases.Basiccontrol - Error occurred in section method: 
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: (//a[@class='hvr-grow'])[4] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.94 (fa0be0b33deb..., userDataDir: C:\Users\VSRIKA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64655}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64655/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bc38f4312d654403b75a852916a0285f
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-server-4.32.0%20(1).jar:?]
+	at testcases.Basiccontrol.section(Basiccontrol.java:43) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.4.0.jar:7.4.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:794) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestRunner.run(TestRunner.java:596) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1063) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.run(TestNG.java:1031) [testng-7.4.0.jar:7.4.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+23:20:21.981 [main] ERROR testcases.Basiccontrol - Error occurred in section method: 
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: (//a[@class='hvr-grow'])[4] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.94 (fa0be0b33deb..., userDataDir: C:\Users\VSRIKA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64759}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64759/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 69881663807b5cb8dcce642a6d546f23
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-server-4.32.0%20(1).jar:?]
+	at testcases.Basiccontrol.section(Basiccontrol.java:43) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.4.0.jar:7.4.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:794) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestRunner.run(TestRunner.java:596) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1063) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.run(TestNG.java:1031) [testng-7.4.0.jar:7.4.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+23:24:24.775 [main] INFO  testcases.Signin - SignIn successfully
+23:24:37.570 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+23:25:59.023 [main] INFO  testcases.Signin - SignIn successfully
+23:26:13.273 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+23:28:44.243 [main] INFO  testcases.Signin - SignIn successfully
+23:28:57.037 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+23:30:57.034 [main] INFO  testcases.Signin - SignIn successfully
+23:31:09.949 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+23:32:04.324 [main] INFO  testcases.Signin - SignIn successfully
+23:32:22.166 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+07:17:17.309 [main] ERROR testcases.Basiccontrol - Error occurred in section method: 
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: (//a[@class='hvr-grow'])[4] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.94 (fa0be0b33deb..., userDataDir: C:\Users\VSRIKA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51648}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51648/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dc16d06f427e9e38b7ad12936e92f217
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-server-4.32.0%20(1).jar:?]
+	at testcases.Basiccontrol.section(Basiccontrol.java:43) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.4.0.jar:7.4.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:794) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestRunner.run(TestRunner.java:596) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1063) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.run(TestNG.java:1031) [testng-7.4.0.jar:7.4.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+07:20:22.846 [main] ERROR testcases.Basiccontrol - Error occurred in section method: 
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: (//a[@class='hvr-grow'])[4] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.94 (fa0be0b33deb..., userDataDir: C:\Users\VSRIKA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51856}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51856/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c672d7bc17ff2e5448bd4eb0368aab4a
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-server-4.32.0%20(1).jar:?]
+	at testcases.Basiccontrol.section(Basiccontrol.java:43) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.4.0.jar:7.4.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:794) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestRunner.run(TestRunner.java:596) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1063) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.run(TestNG.java:1031) [testng-7.4.0.jar:7.4.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+07:22:38.457 [main] INFO  testcases.Signin - SignIn successfully
+07:22:54.694 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+07:30:26.554 [main] INFO  testcases.Signin - SignIn successfully
+07:30:43.247 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+07:33:42.456 [main] INFO  testcases.Signin - SignIn successfully
+07:33:56.306 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+07:37:31.436 [main] INFO  testcases.Signin - SignIn successfully
+07:37:56.163 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+07:40:29.981 [main] INFO  testcases.Signin - SignIn successfully
+07:40:44.671 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+07:46:42.399 [main] INFO  testcases.Signin - SignIn successfully
+07:47:06.826 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+09:42:03.835 [main] INFO  testcases.Signin - SignIn successfully
+09:42:25.267 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+09:43:33.815 [main] INFO  testcases.Signin - SignIn successfully
+09:43:49.365 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+09:47:41.636 [main] INFO  testcases.Signin - SignIn successfully
+09:47:56.640 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+09:48:49.400 [main] INFO  testcases.Signin - SignIn successfully
+09:49:02.993 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+09:53:10.146 [main] INFO  testcases.Signin - SignIn successfully
+09:53:23.661 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+09:54:14.648 [main] INFO  testcases.Signin - SignIn successfully
+09:54:48.175 [main] ERROR testcases.Basiccontrol - Error occurred in section method: 
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //textarea[@id='step1'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.94 (fa0be0b33deb..., userDataDir: C:\Users\VSRIKA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55458}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55458/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a38028137c1547fa5783d9b59eaeeac1
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-server-4.32.0%20(1).jar:?]
+	at testcases.Basiccontrol.waitAndType(Basiccontrol.java:33) ~[test-classes/:?]
+	at testcases.Basiccontrol.section(Basiccontrol.java:46) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.4.0.jar:7.4.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:794) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestRunner.run(TestRunner.java:596) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1063) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.run(TestNG.java:1031) [testng-7.4.0.jar:7.4.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+09:57:09.694 [main] INFO  testcases.Signin - SignIn successfully
+09:57:43.786 [main] ERROR testcases.Basiccontrol - Error occurred in section method: 
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //textarea[@id='step1'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.94 (fa0be0b33deb..., userDataDir: C:\Users\VSRIKA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55596}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55596/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 27030d95bc9b3e99d4ef3383bfa5a123
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-server-4.32.0%20(1).jar:?]
+	at testcases.Basiccontrol.waitAndType(Basiccontrol.java:33) ~[test-classes/:?]
+	at testcases.Basiccontrol.section(Basiccontrol.java:46) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.4.0.jar:7.4.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:794) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestRunner.run(TestRunner.java:596) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1063) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.run(TestNG.java:1031) [testng-7.4.0.jar:7.4.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+09:59:50.534 [main] INFO  testcases.Signin - SignIn successfully
+10:00:06.608 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+10:01:55.146 [main] INFO  testcases.Signin - SignIn successfully
+10:02:09.926 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+10:05:27.304 [main] INFO  testcases.Signin - SignIn successfully
+10:05:41.047 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+10:08:16.283 [main] INFO  testcases.Signin - SignIn successfully
+10:08:31.960 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+10:12:41.370 [main] INFO  testcases.Signin - SignIn successfully
+10:12:57.548 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+10:13:58.249 [main] INFO  testcases.Signin - SignIn successfully
+10:14:32.634 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+10:15:26.047 [main] INFO  testcases.Signin - SignIn successfully
+10:15:40.515 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+10:18:25.821 [main] INFO  testcases.Signin - SignIn successfully
+10:18:39.617 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+10:28:31.717 [main] INFO  testcases.Signin - SignIn successfully
+10:28:47.053 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+10:29:38.144 [main] INFO  testcases.Signin - SignIn successfully
+10:29:51.596 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+10:31:48.429 [main] INFO  testcases.Signin - SignIn successfully
+10:32:03.641 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+10:36:34.157 [main] INFO  testcases.Signin - SignIn successfully
+10:36:49.246 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+10:39:25.302 [main] INFO  testcases.Signin - SignIn successfully
+10:39:38.827 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+10:44:51.921 [main] INFO  testcases.Signin - SignIn successfully
+10:45:05.677 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+10:46:47.783 [main] INFO  testcases.Signin - SignIn successfully
+10:47:03.254 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+10:48:54.674 [main] INFO  testcases.Signin - SignIn successfully
+10:49:08.533 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+10:56:51.626 [main] INFO  testcases.Signin - SignIn successfully
+10:57:05.484 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+10:57:14.799 [main] INFO  testcases.Basiccontrol - Trying to type into Proceduresnippet1...
+10:57:16.213 [main] ERROR testcases.Basiccontrol - ❌ Failed to type into Proceduresnippet1: 
+org.openqa.selenium.InvalidElementStateException: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=136.0.7103.114)
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7e12b32d487872b8ebcd13862a7cec75, clearElement {id=f.64D723546E6BC73F3B2ABEEDD1228485.d.1F9130E607F05F5C87A1135C7CE101D2.e.802}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.94 (fa0be0b33deb..., userDataDir: C:\Users\VSRIKA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60010}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60010/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (7e12b32d487872b8ebcd13862a7cec75)] -> xpath: (//textarea[@name='header'])[11]]
+Session ID: 7e12b32d487872b8ebcd13862a7cec75
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.clear(RemoteWebElement.java:129) ~[selenium-server-4.32.0%20(1).jar:?]
+	at testcases.Basiccontrol.section(Basiccontrol.java:150) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.4.0.jar:7.4.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:794) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestRunner.run(TestRunner.java:596) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1063) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.run(TestNG.java:1031) [testng-7.4.0.jar:7.4.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+11:00:20.505 [main] INFO  testcases.Signin - SignIn successfully
+11:03:21.945 [main] INFO  testcases.Signin - SignIn successfully
+11:06:22.196 [main] INFO  testcases.Signin - SignIn successfully
+11:07:41.467 [main] INFO  testcases.Signin - SignIn successfully
+12:49:46.070 [main] INFO  testcases.Signin - SignIn successfully
+12:51:24.351 [main] INFO  testcases.Signin - SignIn successfully
+12:53:23.547 [main] INFO  testcases.Signin - SignIn successfully
+12:54:56.208 [main] INFO  testcases.Signin - SignIn successfully
+12:58:59.030 [main] INFO  testcases.Signin - SignIn successfully
+13:01:01.926 [main] INFO  testcases.Signin - SignIn successfully
+13:03:00.646 [main] INFO  testcases.Signin - SignIn successfully
+13:05:31.798 [main] INFO  testcases.Signin - SignIn successfully
+13:07:09.405 [main] INFO  testcases.Signin - SignIn successfully
+13:08:45.729 [main] INFO  testcases.Signin - SignIn successfully
+13:10:23.871 [main] INFO  testcases.Signin - SignIn successfully
+13:11:51.320 [main] INFO  testcases.Signin - SignIn successfully
+13:26:14.172 [main] INFO  testcases.Signin - SignIn successfully
+13:28:14.379 [main] INFO  testcases.Signin - SignIn successfully
+13:29:29.248 [main] INFO  testcases.Signin - SignIn successfully
+13:30:44.085 [main] INFO  testcases.Signin - SignIn successfully
+13:34:16.837 [main] INFO  testcases.Signin - SignIn successfully
+13:36:37.367 [main] INFO  testcases.Signin - SignIn successfully
+13:38:56.213 [main] INFO  testcases.Signin - SignIn successfully
+13:42:23.028 [main] INFO  testcases.Signin - SignIn successfully
+13:42:42.999 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+13:48:51.481 [main] INFO  testcases.Signin - SignIn successfully
+13:49:05.157 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+13:51:18.116 [main] INFO  testcases.Signin - SignIn successfully
+13:51:33.812 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+13:52:57.616 [main] INFO  testcases.Signin - SignIn successfully
+13:53:11.114 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+13:56:07.550 [main] INFO  testcases.Signin - SignIn successfully
+13:56:20.959 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+13:57:09.521 [main] INFO  testcases.Signin - SignIn successfully
+13:57:23.412 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+14:09:25.178 [main] INFO  testcases.Signin - SignIn successfully
+14:09:41.433 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+14:15:11.661 [main] INFO  testcases.Signin - SignIn successfully
+14:15:25.585 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+14:19:20.320 [main] INFO  testcases.Signin - SignIn successfully
+14:19:35.091 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+14:32:00.022 [main] INFO  testcases.Signin - SignIn successfully
+14:32:14.090 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+14:34:44.453 [main] INFO  testcases.Signin - SignIn successfully
+14:34:58.852 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+14:41:04.725 [main] INFO  testcases.Signin - SignIn successfully
+14:41:18.579 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+14:42:07.608 [main] INFO  testcases.Signin - SignIn successfully
+14:42:22.743 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+14:45:56.669 [main] INFO  testcases.Signin - SignIn successfully
+14:46:30.719 [main] ERROR testcases.Basiccontrol - Error occurred in section method: 
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //textarea[@id='step1'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.94 (fa0be0b33deb..., userDataDir: C:\Users\VSRIKA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60003}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60003/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b10acd4d4ac72a8ad1295885566f7cbb
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-server-4.32.0%20(1).jar:?]
+	at testcases.Basiccontrol.waitAndType(Basiccontrol.java:35) ~[test-classes/:?]
+	at testcases.Basiccontrol.section(Basiccontrol.java:48) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.4.0.jar:7.4.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:794) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestRunner.run(TestRunner.java:596) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1063) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.run(TestNG.java:1031) [testng-7.4.0.jar:7.4.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+14:47:40.981 [main] INFO  testcases.Signin - SignIn successfully
+14:47:55.235 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+14:49:10.988 [main] INFO  testcases.Signin - SignIn successfully
+14:49:24.727 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+14:52:16.190 [main] ERROR testcases.Basiccontrol - Error occurred in section method: 
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: (//a[@class='hvr-grow'])[4] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.94 (fa0be0b33deb..., userDataDir: C:\Users\VSRIKA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60438}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60438/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 20bbda226a3dc2adef315132f480975e
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-server-4.32.0%20(1).jar:?]
+	at testcases.Basiccontrol.section(Basiccontrol.java:45) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.4.0.jar:7.4.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:794) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestRunner.run(TestRunner.java:596) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1063) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.run(TestNG.java:1031) [testng-7.4.0.jar:7.4.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+15:00:27.832 [main] INFO  testcases.Signin - SignIn successfully
+15:00:41.759 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+15:02:50.827 [main] INFO  testcases.Signin - SignIn successfully
+15:03:03.158 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+15:08:38.936 [main] INFO  testcases.Signin - SignIn successfully
+15:08:52.388 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+15:51:04.359 [main] INFO  testcases.Signin - SignIn successfully
+15:51:19.666 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+16:00:04.453 [main] INFO  testcases.Signin - SignIn successfully
+16:00:20.092 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+16:05:18.162 [main] INFO  testcases.Signin - SignIn successfully
+16:05:32.141 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+16:06:31.008 [main] INFO  testcases.Signin - SignIn successfully
+16:06:46.855 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+16:09:58.903 [main] INFO  testcases.Signin - SignIn successfully
+16:10:16.899 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+16:11:56.760 [main] INFO  testcases.Signin - SignIn successfully
+16:12:12.033 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+16:16:08.133 [main] INFO  testcases.Signin - SignIn successfully
+16:16:24.711 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+16:18:42.368 [main] INFO  testcases.Signin - SignIn successfully
+16:18:57.398 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+16:21:47.409 [main] INFO  testcases.Signin - SignIn successfully
+16:22:02.949 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+16:26:53.715 [main] INFO  testcases.Signin - SignIn successfully
+16:27:10.036 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+16:33:01.893 [main] INFO  testcases.Signin - SignIn successfully
+16:33:15.294 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+16:36:47.886 [main] INFO  testcases.Signin - SignIn successfully
+16:37:02.823 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+16:41:58.281 [main] INFO  testcases.Signin - SignIn successfully
+16:42:14.326 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+16:44:10.521 [main] INFO  testcases.Signin - SignIn successfully
+16:44:24.082 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+16:47:50.129 [main] INFO  testcases.Signin - SignIn successfully
+16:48:04.322 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+16:48:55.576 [main] INFO  testcases.Signin - SignIn successfully
+16:49:09.008 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+16:50:08.302 [main] INFO  testcases.Signin - SignIn successfully
+16:50:20.760 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+16:52:18.435 [main] INFO  testcases.Signin - SignIn successfully
+16:52:32.737 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+16:54:16.367 [main] INFO  testcases.Signin - SignIn successfully
+16:54:29.716 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+17:02:13.716 [main] INFO  testcases.Signin - SignIn successfully
+17:02:27.617 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+17:03:47.301 [main] INFO  testcases.Signin - SignIn successfully
+17:04:01.527 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+17:05:40.958 [main] INFO  testcases.Signin - SignIn successfully
+17:05:57.295 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+17:08:04.983 [main] INFO  testcases.Signin - SignIn successfully
+17:08:17.907 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+17:14:38.504 [main] INFO  testcases.Signin - SignIn successfully
+17:14:53.077 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+17:16:54.135 [main] INFO  testcases.Signin - SignIn successfully
+17:17:07.921 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+17:18:18.697 [main] INFO  testcases.Signin - SignIn successfully
+17:18:51.964 [main] ERROR testcases.Basiccontrol - Error occurred in section method: 
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //textarea[@id='step1'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.94 (fa0be0b33deb..., userDataDir: C:\Users\VSRIKA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51389}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51389/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 023048a7e2d590f3922101e353d86f80
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-server-4.32.0%20(1).jar:?]
+	at testcases.Basiccontrol.waitAndType(Basiccontrol.java:35) ~[test-classes/:?]
+	at testcases.Basiccontrol.section(Basiccontrol.java:48) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.4.0.jar:7.4.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:794) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestRunner.run(TestRunner.java:596) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1063) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.run(TestNG.java:1031) [testng-7.4.0.jar:7.4.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+17:23:12.789 [main] INFO  testcases.Signin - SignIn successfully
+17:23:25.804 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+17:24:25.105 [main] INFO  testcases.Signin - SignIn successfully
+17:24:37.948 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+17:28:53.524 [main] INFO  testcases.Signin - SignIn successfully
+17:29:06.267 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+17:31:08.166 [main] INFO  testcases.Signin - SignIn successfully
+17:31:21.461 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+17:34:48.070 [main] INFO  testcases.Signin - SignIn successfully
+17:35:01.889 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+17:39:11.133 [main] INFO  testcases.Signin - SignIn successfully
+17:39:27.934 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+17:41:28.563 [main] INFO  testcases.Signin - SignIn successfully
+17:42:01.806 [main] ERROR testcases.Basiccontrol - Error occurred in section method: 
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //textarea[@id='step1'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.94 (fa0be0b33deb..., userDataDir: C:\Users\VSRIKA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52481}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52481/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2c44f6b8a119c05c3e53ce8caff1c3ba
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-server-4.32.0%20(1).jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-server-4.32.0%20(1).jar:?]
+	at testcases.Basiccontrol.waitAndType(Basiccontrol.java:35) ~[test-classes/:?]
+	at testcases.Basiccontrol.section(Basiccontrol.java:48) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.4.0.jar:7.4.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:794) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestRunner.run(TestRunner.java:596) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1063) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.run(TestNG.java:1031) [testng-7.4.0.jar:7.4.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+17:43:30.515 [main] INFO  testcases.Signin - SignIn successfully
+17:43:43.877 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+17:46:07.333 [main] INFO  testcases.Signin - SignIn successfully
+17:46:20.600 [main] INFO  testcases.Basiccontrol - Section process completed successfully.
+17:47:17.513 [main] INFO  testcases.Signin - SignIn successfully
+17:47:30.821 [main] INFO  testcases.Basiccontrol - Section process completed successfully.

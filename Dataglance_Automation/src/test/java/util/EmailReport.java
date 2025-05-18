@@ -11,7 +11,7 @@ public class EmailReport {
     public static void sendReportEmail(int passed, int failed, int skipped) {
         final String senderEmail = "qateamstratapps@gmail.com"; 
         final String senderPassword = "uuus patl eysl ysne"; 
-        final String recipientEmail = "vsrikanth@stratapps.com,banoj@stratapps.com";
+        final String recipientEmail = "vsrikanth@stratapps.com";
 
         // SMTP Configuration
         Properties props = new Properties();

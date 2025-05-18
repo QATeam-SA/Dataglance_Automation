@@ -11,11 +11,11 @@ import org.testng.annotations.Test;
 import base.Instance;
 import base.PropertiesFile;
 
-public class Signin_Existinguser {
+public class Signin {
 
 	WebDriver driver = Instance.getInstance();
-    Properties prop = PropertiesFile.readPropertyFile("Signin_Existinguser.properties");
-    Logger logger = LogManager.getLogger(Signin_Existinguser.class);
+    Properties prop = PropertiesFile.readPropertyFile("Signin.properties");
+    Logger logger = LogManager.getLogger(Signin.class);
     
 	@Test
     public void login() throws InterruptedException {
