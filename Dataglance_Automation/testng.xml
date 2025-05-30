@@ -11,6 +11,7 @@
 		<classes>
 			<class name="testcases.Signin" />
 			<class name="testcases.Basiccontrol" />
+			<class name="testcases.stepactionwithdataentries" />
 		</classes>
 
 	</test> 

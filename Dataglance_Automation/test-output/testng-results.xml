@@ -1,295 +1,211 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="36" passed="34" failed="2" skipped="0">
+<testng-results ignored="0" total="36" passed="35" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-05-27T18:45:26 IST" name="Suite" finished-at="2025-05-27T18:49:41 IST" duration-ms="255005">
+  <suite started-at="2025-05-30T08:59:46 IST" name="Suite" finished-at="2025-05-30T09:05:20 IST" duration-ms="334088">
     <groups>
     </groups>
-    <test started-at="2025-05-27T18:45:26 IST" name="Signin" finished-at="2025-05-27T18:49:41 IST" duration-ms="255005">
+    <test started-at="2025-05-30T08:59:46 IST" name="Signin" finished-at="2025-05-30T09:05:20 IST" duration-ms="334088">
       <class name="testcases.Basiccontrol">
-        <test-method signature="section()[pri:1, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:46:00 IST" name="section" finished-at="2025-05-27T18:46:12 IST" duration-ms="11874" status="PASS">
+        <test-method signature="section()[pri:1, instance:testcases.Basiccontrol@3bd3d05e]" started-at="2025-05-30T09:00:30 IST" name="section" finished-at="2025-05-30T09:00:45 IST" duration-ms="14267" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- section -->
-        <test-method signature="control()[pri:2, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:46:12 IST" name="control" finished-at="2025-05-27T18:46:13 IST" duration-ms="292" status="PASS">
+        <test-method signature="control()[pri:2, instance:testcases.Basiccontrol@3bd3d05e]" started-at="2025-05-30T09:00:45 IST" name="control" finished-at="2025-05-30T09:00:45 IST" duration-ms="341" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- control -->
-        <test-method signature="subsection()[pri:3, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:46:13 IST" name="subsection" finished-at="2025-05-27T18:46:14 IST" duration-ms="1058" status="PASS">
+        <test-method signature="subsection()[pri:3, instance:testcases.Basiccontrol@3bd3d05e]" started-at="2025-05-30T09:00:45 IST" name="subsection" finished-at="2025-05-30T09:00:49 IST" duration-ms="3885" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- subsection -->
-        <test-method signature="stepaction()[pri:4, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:46:14 IST" name="stepaction" finished-at="2025-05-27T18:46:21 IST" duration-ms="6914" status="FAIL">
-          <exception class="org.openqa.selenium.ElementNotInteractableException">
-            <message>
-              <![CDATA[element not interactable
-  (Session info: chrome=136.0.7103.114)
-Build info: version: '4.32.0', revision: 'd17c8aa950'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [0b9052eab0feeb9b9b75a96e98e5d3fb, clickElement {id=f.8C5725FD8F91294EB7F551C492DB8DA7.d.CCFA7272AC50E3C547C65B18282547EC.e.151}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.113 (76fa3c17824..., userDataDir: C:\Users\VSRIKA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56646}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56646/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Element: [[ChromeDriver: chrome on windows (0b9052eab0feeb9b9b75a96e98e5d3fb)] -> xpath: //textarea[@id='step1']]
-Session ID: 0b9052eab0feeb9b9b75a96e98e5d3fb]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.ElementNotInteractableException: element not interactable
-  (Session info: chrome=136.0.7103.114)
-Build info: version: '4.32.0', revision: 'd17c8aa950'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [0b9052eab0feeb9b9b75a96e98e5d3fb, clickElement {id=f.8C5725FD8F91294EB7F551C492DB8DA7.d.CCFA7272AC50E3C547C65B18282547EC.e.151}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.113 (76fa3c17824..., userDataDir: C:\Users\VSRIKA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56646}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56646/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Element: [[ChromeDriver: chrome on windows (0b9052eab0feeb9b9b75a96e98e5d3fb)] -> xpath: //textarea[@id='step1']]
-Session ID: 0b9052eab0feeb9b9b75a96e98e5d3fb
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
-at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
-at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
-at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
-at testcases.Basiccontrol.stepaction(Basiccontrol.java:113)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
-at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
-at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
-at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
-at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
-at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:794)
-at org.testng.TestRunner.run(TestRunner.java:596)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
-at org.testng.SuiteRunner.run(SuiteRunner.java:276)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
-at org.testng.TestNG.runSuites(TestNG.java:1063)
-at org.testng.TestNG.run(TestNG.java:1031)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
+        <test-method signature="stepaction()[pri:4, instance:testcases.Basiccontrol@3bd3d05e]" started-at="2025-05-30T09:00:49 IST" name="stepaction" finished-at="2025-05-30T09:01:00 IST" duration-ms="11695" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- stepaction -->
-        <test-method signature="signaturestep()[pri:5, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:46:21 IST" name="signaturestep" finished-at="2025-05-27T18:46:25 IST" duration-ms="3855" status="PASS">
+        <test-method signature="signaturestep()[pri:5, instance:testcases.Basiccontrol@3bd3d05e]" started-at="2025-05-30T09:01:00 IST" name="signaturestep" finished-at="2025-05-30T09:01:04 IST" duration-ms="3775" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signaturestep -->
-        <test-method signature="stepinfo()[pri:6, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:46:25 IST" name="stepinfo" finished-at="2025-05-27T18:46:26 IST" duration-ms="931" status="PASS">
+        <test-method signature="stepinfo()[pri:6, instance:testcases.Basiccontrol@3bd3d05e]" started-at="2025-05-30T09:01:04 IST" name="stepinfo" finished-at="2025-05-30T09:01:05 IST" duration-ms="917" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- stepinfo -->
-        <test-method signature="Delaystep()[pri:7, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:46:26 IST" name="Delaystep" finished-at="2025-05-27T18:46:27 IST" duration-ms="983" status="PASS">
+        <test-method signature="Delaystep()[pri:7, instance:testcases.Basiccontrol@3bd3d05e]" started-at="2025-05-30T09:01:05 IST" name="Delaystep" finished-at="2025-05-30T09:01:06 IST" duration-ms="1012" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Delaystep -->
-        <test-method signature="Timedstep()[pri:8, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:46:27 IST" name="Timedstep" finished-at="2025-05-27T18:46:28 IST" duration-ms="1122" status="PASS">
+        <test-method signature="Timedstep()[pri:8, instance:testcases.Basiccontrol@3bd3d05e]" started-at="2025-05-30T09:01:06 IST" name="Timedstep" finished-at="2025-05-30T09:01:07 IST" duration-ms="1233" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Timedstep -->
-        <test-method signature="Repeatstep()[pri:9, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:46:28 IST" name="Repeatstep" finished-at="2025-05-27T18:46:29 IST" duration-ms="1115" status="PASS">
+        <test-method signature="Repeatstep()[pri:9, instance:testcases.Basiccontrol@3bd3d05e]" started-at="2025-05-30T09:01:07 IST" name="Repeatstep" finished-at="2025-05-30T09:01:09 IST" duration-ms="1127" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Repeatstep -->
-        <test-method signature="Holdstep()[pri:10, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:46:29 IST" name="Holdstep" finished-at="2025-05-27T18:46:31 IST" duration-ms="2151" status="PASS">
+        <test-method signature="Holdstep()[pri:10, instance:testcases.Basiccontrol@3bd3d05e]" started-at="2025-05-30T09:01:09 IST" name="Holdstep" finished-at="2025-05-30T09:01:11 IST" duration-ms="2194" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Holdstep -->
-        <test-method signature="Proceduresnippet()[pri:11, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:46:31 IST" name="Proceduresnippet" finished-at="2025-05-27T18:46:57 IST" duration-ms="25621" status="PASS">
+        <test-method signature="Proceduresnippet()[pri:11, instance:testcases.Basiccontrol@3bd3d05e]" started-at="2025-05-30T09:01:11 IST" name="Proceduresnippet" finished-at="2025-05-30T09:01:36 IST" duration-ms="25650" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Proceduresnippet -->
-        <test-method signature="Add()[pri:12, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:46:57 IST" name="Add" finished-at="2025-05-27T18:47:27 IST" duration-ms="30273" status="PASS">
+        <test-method signature="Add()[pri:12, instance:testcases.Basiccontrol@3bd3d05e]" started-at="2025-05-30T09:01:36 IST" name="Add" finished-at="2025-05-30T09:02:07 IST" duration-ms="30255" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Add -->
-        <test-method signature="Warning()[pri:13, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:47:27 IST" name="Warning" finished-at="2025-05-27T18:47:52 IST" duration-ms="25296" status="PASS">
+        <test-method signature="Warning()[pri:13, instance:testcases.Basiccontrol@3bd3d05e]" started-at="2025-05-30T09:02:07 IST" name="Warning" finished-at="2025-05-30T09:02:32 IST" duration-ms="25290" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Warning -->
-        <test-method signature="Caution()[pri:14, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:47:52 IST" name="Caution" finished-at="2025-05-27T18:47:53 IST" duration-ms="257" status="PASS">
+        <test-method signature="Caution()[pri:14, instance:testcases.Basiccontrol@3bd3d05e]" started-at="2025-05-30T09:02:32 IST" name="Caution" finished-at="2025-05-30T09:02:32 IST" duration-ms="253" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Caution -->
-        <test-method signature="Note()[pri:15, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:47:53 IST" name="Note" finished-at="2025-05-27T18:47:53 IST" duration-ms="268" status="PASS">
+        <test-method signature="Note()[pri:15, instance:testcases.Basiccontrol@3bd3d05e]" started-at="2025-05-30T09:02:32 IST" name="Note" finished-at="2025-05-30T09:02:32 IST" duration-ms="242" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Note -->
-        <test-method signature="Alara()[pri:16, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:47:53 IST" name="Alara" finished-at="2025-05-27T18:47:59 IST" duration-ms="6295" status="PASS">
+        <test-method signature="Alara()[pri:16, instance:testcases.Basiccontrol@3bd3d05e]" started-at="2025-05-30T09:02:32 IST" name="Alara" finished-at="2025-05-30T09:02:39 IST" duration-ms="6271" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Alara -->
-        <test-method signature="Paragrapgh()[pri:17, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:47:59 IST" name="Paragrapgh" finished-at="2025-05-27T18:47:59 IST" duration-ms="260" status="PASS">
+        <test-method signature="Paragrapgh()[pri:17, instance:testcases.Basiccontrol@3bd3d05e]" started-at="2025-05-30T09:02:39 IST" name="Paragrapgh" finished-at="2025-05-30T09:02:39 IST" duration-ms="289" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Paragrapgh -->
-        <test-method signature="Label()[pri:18, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:47:59 IST" name="Label" finished-at="2025-05-27T18:48:05 IST" duration-ms="5252" status="PASS">
+        <test-method signature="Label()[pri:18, instance:testcases.Basiccontrol@3bd3d05e]" started-at="2025-05-30T09:02:39 IST" name="Label" finished-at="2025-05-30T09:02:44 IST" duration-ms="5236" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Label -->
-        <test-method signature="Formula()[pri:19, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:48:05 IST" name="Formula" finished-at="2025-05-27T18:48:10 IST" duration-ms="5240" status="PASS">
+        <test-method signature="Formula()[pri:19, instance:testcases.Basiccontrol@3bd3d05e]" started-at="2025-05-30T09:02:44 IST" name="Formula" finished-at="2025-05-30T09:02:49 IST" duration-ms="5240" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Formula -->
-        <test-method signature="Dataentry()[pri:20, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:48:10 IST" name="Dataentry" finished-at="2025-05-27T18:48:30 IST" duration-ms="20210" status="PASS">
+        <test-method signature="Dataentry()[pri:20, instance:testcases.Basiccontrol@3bd3d05e]" started-at="2025-05-30T09:02:49 IST" name="Dataentry" finished-at="2025-05-30T09:03:20 IST" duration-ms="30179" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Dataentry -->
-        <test-method signature="Table()[pri:21, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:48:30 IST" name="Table" finished-at="2025-05-27T18:48:32 IST" duration-ms="2279" status="PASS">
+        <test-method signature="Table()[pri:21, instance:testcases.Basiccontrol@3bd3d05e]" started-at="2025-05-30T09:03:20 IST" name="Table" finished-at="2025-05-30T09:03:22 IST" duration-ms="2306" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Table -->
-        <test-method signature="Column()[pri:22, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:48:32 IST" name="Column" finished-at="2025-05-27T18:48:37 IST" duration-ms="4328" status="PASS">
+        <test-method signature="Column()[pri:22, instance:testcases.Basiccontrol@3bd3d05e]" started-at="2025-05-30T09:03:22 IST" name="Column" finished-at="2025-05-30T09:03:26 IST" duration-ms="4313" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Column -->
-        <test-method signature="Row()[pri:23, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:48:37 IST" name="Row" finished-at="2025-05-27T18:48:41 IST" duration-ms="4304" status="PASS">
+        <test-method signature="Row()[pri:23, instance:testcases.Basiccontrol@3bd3d05e]" started-at="2025-05-30T09:03:26 IST" name="Row" finished-at="2025-05-30T09:03:31 IST" duration-ms="4325" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Row -->
-        <test-method signature="Ok()[pri:24, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:48:41 IST" name="Ok" finished-at="2025-05-27T18:48:44 IST" duration-ms="2540" status="PASS">
+        <test-method signature="Ok()[pri:24, instance:testcases.Basiccontrol@3bd3d05e]" started-at="2025-05-30T09:03:31 IST" name="Ok" finished-at="2025-05-30T09:03:33 IST" duration-ms="2575" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Ok -->
-        <test-method signature="Columnbutton()[pri:25, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:48:44 IST" name="Columnbutton" finished-at="2025-05-27T18:48:46 IST" duration-ms="2254" status="PASS">
+        <test-method signature="Columnbutton()[pri:25, instance:testcases.Basiccontrol@3bd3d05e]" started-at="2025-05-30T09:03:33 IST" name="Columnbutton" finished-at="2025-05-30T09:03:35 IST" duration-ms="2204" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Columnbutton -->
-        <test-method signature="Datatypedropdown()[pri:26, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:48:46 IST" name="Datatypedropdown" finished-at="2025-05-27T18:48:48 IST" duration-ms="2230" status="PASS">
+        <test-method signature="Datatypedropdown()[pri:26, instance:testcases.Basiccontrol@3bd3d05e]" started-at="2025-05-30T09:03:35 IST" name="Datatypedropdown" finished-at="2025-05-30T09:03:38 IST" duration-ms="2228" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Datatypedropdown -->
-        <test-method signature="Textdataentry()[pri:27, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:48:48 IST" name="Textdataentry" finished-at="2025-05-27T18:48:52 IST" duration-ms="4336" status="PASS">
+        <test-method signature="Textdataentry()[pri:27, instance:testcases.Basiccontrol@3bd3d05e]" started-at="2025-05-30T09:03:38 IST" name="Textdataentry" finished-at="2025-05-30T09:03:42 IST" duration-ms="4308" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Textdataentry -->
-        <test-method signature="Column2()[pri:28, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:48:52 IST" name="Column2" finished-at="2025-05-27T18:49:01 IST" duration-ms="8564" status="PASS">
+        <test-method signature="Column2()[pri:28, instance:testcases.Basiccontrol@3bd3d05e]" started-at="2025-05-30T09:03:42 IST" name="Column2" finished-at="2025-05-30T09:03:51 IST" duration-ms="8597" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Column2 -->
-        <test-method signature="Column3()[pri:31, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:49:01 IST" name="Column3" finished-at="2025-05-27T18:49:07 IST" duration-ms="6573" status="PASS">
+        <test-method signature="Column3()[pri:31, instance:testcases.Basiccontrol@3bd3d05e]" started-at="2025-05-30T09:03:51 IST" name="Column3" finished-at="2025-05-30T09:03:57 IST" duration-ms="6469" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Column3 -->
-        <test-method signature="Numberdataentry()[pri:32, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:49:07 IST" name="Numberdataentry" finished-at="2025-05-27T18:49:10 IST" duration-ms="2092" status="PASS">
+        <test-method signature="Numberdataentry()[pri:32, instance:testcases.Basiccontrol@3bd3d05e]" started-at="2025-05-30T09:03:57 IST" name="Numberdataentry" finished-at="2025-05-30T09:03:59 IST" duration-ms="2088" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Numberdataentry -->
-        <test-method signature="Column4()[pri:33, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:49:10 IST" name="Column4" finished-at="2025-05-27T18:49:14 IST" duration-ms="4531" status="PASS">
+        <test-method signature="Column4()[pri:33, instance:testcases.Basiccontrol@3bd3d05e]" started-at="2025-05-30T09:03:59 IST" name="Column4" finished-at="2025-05-30T09:04:04 IST" duration-ms="4533" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Column4 -->
-        <test-method signature="Datatypedropdown2()[pri:34, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:49:14 IST" name="Datatypedropdown2" finished-at="2025-05-27T18:49:23 IST" duration-ms="9288" status="PASS">
+        <test-method signature="Datatypedropdown2()[pri:34, instance:testcases.Basiccontrol@3bd3d05e]" started-at="2025-05-30T09:04:04 IST" name="Datatypedropdown2" finished-at="2025-05-30T09:04:13 IST" duration-ms="9279" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Datatypedropdown2 -->
-        <test-method signature="Column5()[pri:36, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:49:23 IST" name="Column5" finished-at="2025-05-27T18:49:34 IST" duration-ms="10594" status="PASS">
+        <test-method signature="Column5()[pri:36, instance:testcases.Basiccontrol@3bd3d05e]" started-at="2025-05-30T09:04:13 IST" name="Column5" finished-at="2025-05-30T09:04:23 IST" duration-ms="10527" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Column5 -->
-        <test-method signature="Ok1()[pri:37, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:49:34 IST" name="Ok1" finished-at="2025-05-27T18:49:36 IST" duration-ms="2334" status="PASS">
+        <test-method signature="Ok1()[pri:37, instance:testcases.Basiccontrol@3bd3d05e]" started-at="2025-05-30T09:04:23 IST" name="Ok1" finished-at="2025-05-30T09:04:26 IST" duration-ms="2301" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Ok1 -->
-        <test-method signature="stepaction1()[pri:38, instance:testcases.Basiccontrol@211febf3]" started-at="2025-05-27T18:49:36 IST" name="stepaction1" finished-at="2025-05-27T18:49:41 IST" duration-ms="4198" status="FAIL">
-          <exception class="org.openqa.selenium.ElementClickInterceptedException">
-            <message>
-              <![CDATA[element click intercepted: Element <span _ngcontent-via-c229="" data-type="textfield" data-key="textfield" data-group="basic" class="ng-tns-c229-0 btn btn-primary btn-sm btn-block formcomponent drag-copy ng-star-inserted disabled" style="">...</span> is not clickable at point (133, 203). Other element would receive the click: <div _ngcontent-via-c229="" class="card-body no-drop p-2 ng-tns-c229-0 sunCardScrool">...</div>
-  (Session info: chrome=136.0.7103.114)
-Build info: version: '4.32.0', revision: 'd17c8aa950'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [0b9052eab0feeb9b9b75a96e98e5d3fb, clickElement {id=f.8C5725FD8F91294EB7F551C492DB8DA7.d.CCFA7272AC50E3C547C65B18282547EC.e.214}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.113 (76fa3c17824..., userDataDir: C:\Users\VSRIKA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56646}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56646/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Element: [[ChromeDriver: chrome on windows (0b9052eab0feeb9b9b75a96e98e5d3fb)] -> xpath: (//span[@data-group='basic'])[63]]
-Session ID: 0b9052eab0feeb9b9b75a96e98e5d3fb]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <span _ngcontent-via-c229="" data-type="textfield" data-key="textfield" data-group="basic" class="ng-tns-c229-0 btn btn-primary btn-sm btn-block formcomponent drag-copy ng-star-inserted disabled" style="">...</span> is not clickable at point (133, 203). Other element would receive the click: <div _ngcontent-via-c229="" class="card-body no-drop p-2 ng-tns-c229-0 sunCardScrool">...</div>
-  (Session info: chrome=136.0.7103.114)
-Build info: version: '4.32.0', revision: 'd17c8aa950'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [0b9052eab0feeb9b9b75a96e98e5d3fb, clickElement {id=f.8C5725FD8F91294EB7F551C492DB8DA7.d.CCFA7272AC50E3C547C65B18282547EC.e.214}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.113 (76fa3c17824..., userDataDir: C:\Users\VSRIKA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56646}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56646/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Element: [[ChromeDriver: chrome on windows (0b9052eab0feeb9b9b75a96e98e5d3fb)] -> xpath: (//span[@data-group='basic'])[63]]
-Session ID: 0b9052eab0feeb9b9b75a96e98e5d3fb
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
-at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
-at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
-at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
-at testcases.Basiccontrol.stepaction1(Basiccontrol.java:606)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
-at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
-at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
-at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
-at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
-at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:794)
-at org.testng.TestRunner.run(TestRunner.java:596)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
-at org.testng.SuiteRunner.run(SuiteRunner.java:276)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
-at org.testng.TestNG.runSuites(TestNG.java:1063)
-at org.testng.TestNG.run(TestNG.java:1031)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.ElementClickInterceptedException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- stepaction1 -->
       </class> <!-- testcases.Basiccontrol -->
       <class name="testcases.Signin">
-        <test-method signature="login()[pri:0, instance:testcases.Signin@7eb6b6b6]" started-at="2025-05-27T18:45:26 IST" name="login" finished-at="2025-05-27T18:46:00 IST" duration-ms="34686" status="PASS">
+        <test-method signature="login()[pri:0, instance:testcases.Signin@7ed9499e]" started-at="2025-05-30T08:59:46 IST" name="login" finished-at="2025-05-30T09:00:30 IST" duration-ms="43921" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
       </class> <!-- testcases.Signin -->
+      <class name="testcases.stepactionwithdataentries">
+        <test-method signature="section1()[pri:39, instance:testcases.stepactionwithdataentries@6aba5d30]" started-at="2025-05-30T09:04:26 IST" name="section1" finished-at="2025-05-30T09:05:20 IST" duration-ms="54345" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of element located by By.xpath: //span[@data-type='textarea' and contains(text(), 'Text')] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.113 (76fa3c17824..., userDataDir: C:\Users\VSRIKA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51381}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51381/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7bcb8a62c527a33cd868aa390ef8d9ec]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[@data-type='textarea' and contains(text(), 'Text')] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.113 (76fa3c17824..., userDataDir: C:\Users\VSRIKA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51381}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51381/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7bcb8a62c527a33cd868aa390ef8d9ec
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+at testcases.stepactionwithdataentries.section1(stepactionwithdataentries.java:66)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- section1 -->
+      </class> <!-- testcases.stepactionwithdataentries -->
     </test> <!-- Signin -->
   </suite> <!-- Suite -->
 </testng-results>

@@ -84,7 +84,12 @@ public class Basiccontrol {
 
 	        logger.info("Section process completed successfully.");
 	        
-	        // Optional additional click if needed
+	        JavascriptExecutor js = (JavascriptExecutor) driver;
+	        WebElement element = driver.findElement(By.xpath("(//textarea[@id='step1'])[1]"));
+	        js.executeScript("arguments[0].scrollIntoView(true);", element);
+	        element.click();
+	        Thread.sleep(2500);
+
 	        driver.findElement(By.xpath(prop.getProperty("Section"))).click();
 
 	    	}
@@ -92,7 +97,7 @@ public class Basiccontrol {
 
 	@Test(priority = 4, enabled = true)
 	public void stepaction() throws InterruptedException {
-	    try {Thread.sleep(3000);
+	  Thread.sleep(8000);
 	        wait.until(ExpectedConditions.elementToBeClickable(By.xpath(prop.getProperty("Stepaction1")))).click();
 	        waitAndType(prop.getProperty("Stepaction11"), "Stepaction");
 
@@ -109,13 +114,15 @@ public class Basiccontrol {
 			 * .until(ExpectedConditions.elementToBeClickable(By.xpath(prop.getProperty(
 			 * "Section")))); section.click();
 			 */
-	        Thread.sleep(3000);
+	        JavascriptExecutor js = (JavascriptExecutor) driver;
+	        WebElement element = driver.findElement(By.xpath("(//textarea[@id='step1'])[1]"));
+	        js.executeScript("arguments[0].scrollIntoView(true);", element);
+	        element.click();
+	        Thread.sleep(2500);
+
 	        driver.findElement(By.xpath(prop.getProperty("Section"))).click();
-	    } catch (Exception e) {
-	        logger.error("Error occurred in stepaction method: ", e);
-	        throw e; // Optional: re-throw or custom error handling
-	    }
-	}
+	    } 
+	
 
 		
 	@Test(priority = 5, enabled = true)
@@ -393,7 +400,7 @@ public class Basiccontrol {
 	@Test(priority = 20, enabled = true)
 	public void Dataentry() throws InterruptedException {
 	    try {
-	        Thread.sleep(20000);
+	        Thread.sleep(30000);
 	        driver.findElement(By.xpath(prop.getProperty("Dataentry"))).click();
 	    } catch (Exception e) {
 	        logger.error("Error occurred in Dataentry method: ", e);
@@ -601,11 +608,7 @@ public class Basiccontrol {
   driver.findElement(By.xpath(prop.getProperty("Ok1"))).click(); } catch
   (Exception e) { logger.error("Error occurred in Ok1 method: ", e); throw e; }
   }
-@Test(priority = 38, enabled = true) public void stepaction1() throws
-InterruptedException { try { Thread.sleep(3000);
-driver.findElement(By.xpath(prop.getProperty("Stepaction1"))).click(); } catch
-(Exception e) { logger.error("Error occurred in stepaction method: ", e); throw e; }
-}
+
 
 }
 	
