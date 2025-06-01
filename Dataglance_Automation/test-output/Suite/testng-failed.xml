@@ -12,6 +12,11 @@
           <include name="section1"/>
         </methods>
       </class> <!-- testcases.stepactionwithdataentries -->
+      <class name="testcases.signout">
+        <methods>
+          <include name="signout1"/>
+        </methods>
+      </class> <!-- testcases.signout -->
     </classes>
   </test> <!-- Signin(failed) -->
 </suite> <!-- Failed suite [Suite] -->

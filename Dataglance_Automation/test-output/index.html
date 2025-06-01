@@ -26,7 +26,7 @@
       <span class="top-banner-title-font">Test results</span>
       <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
       <br/>
-      <span class="top-banner-font-1">1 suite, 1 failed test</span>
+      <span class="top-banner-font-1">1 suite, 2 failed tests</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -93,7 +93,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">36 methods, 1 failed,   35 passed</span>
+                    <span class="method-stats">37 methods, 2 failed,   35 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title failed">Failed methods</span>
@@ -105,6 +105,11 @@
                       <span>
                         <img src="failed.png" width="3%"/>
                         <a href="#" panel-name="suite-Suite" title="testcases.stepactionwithdataentries" class="method navigator-link" hash-for-method="section1">section1</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="testcases.signout" class="method navigator-link" hash-for-method="signout1">signout1</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content failed suite-Suite -->
@@ -314,15 +319,50 @@
                   <a name="section1">
                   </a> <!-- section1 -->
                   <span class="method-name">section1</span>
-                  <div class="stack-trace">org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[@data-type=&apos;textarea&apos; and contains(text(), &apos;Text&apos;)] (tried for 30 second(s) with 500 milliseconds interval)
+                  <div class="stack-trace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//div[@class=&apos;col-md-3 col-lg-3-viewProp col-xs-3 col-sm-3 formcomponents pl-0 pr-2 MobileDispalyNone ng-tns-c230-4 ng-star-inserted&apos;]//span[@class=&apos;ng-tns-c230-4 btn btn-primary btn-sm btn-block formcomponent drag-copy drag-handle ng-star-inserted&apos;][normalize-space()=&apos;TextArea&apos;]&quot;}
+  (Session info: chrome=136.0.7103.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Build info: version: &apos;4.32.0&apos;, revision: &apos;d17c8aa950&apos;
 System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.11&apos;
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.113 (76fa3c17824..., userDataDir: C:\Users\VSRIKA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51381}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51381/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 7bcb8a62c527a33cd868aa390ef8d9ec
-	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
-	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
-	at testcases.stepactionwithdataentries.section1(stepactionwithdataentries.java:66)
+Command: [ef264f56072a9dd96c5cf46989b3a92c, findElement {using=xpath, value=//div[@class=&apos;col-md-3 col-lg-3-viewProp col-xs-3 col-sm-3 formcomponents pl-0 pr-2 MobileDispalyNone ng-tns-c230-4 ng-star-inserted&apos;]//span[@class=&apos;ng-tns-c230-4 btn btn-primary btn-sm btn-block formcomponent drag-copy drag-handle ng-star-inserted&apos;][normalize-space()=&apos;TextArea&apos;]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.113 (76fa3c17824..., userDataDir: C:\Users\VSRIKA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52385}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52385/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ef264f56072a9dd96c5cf46989b3a92c
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+	at testcases.stepactionwithdataentries.section1(stepactionwithdataentries.java:52)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 31 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-failed -->
+          <div class="suite-Suite-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">testcases.signout</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="signout1">
+                  </a> <!-- signout1 -->
+                  <span class="method-name">signout1</span>
+                  <div class="stack-trace">java.lang.IllegalArgumentException: Cannot find elements when the XPath is null.
+	at org.openqa.selenium.internal.Require$ArgumentChecker.nonNull(Require.java:211)
+	at org.openqa.selenium.By$ByXPath.&lt;init&gt;(By.java:286)
+	at org.openqa.selenium.By.xpath(By.java:89)
+	at testcases.signout.signout1(signout.java:21)
 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
 ... Removed 27 stack frames
 </div> <!-- stack-trace -->
@@ -330,21 +370,6 @@ Session ID: 7bcb8a62c527a33cd868aa390ef8d9ec
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
           </div> <!-- suite-Suite-class-failed -->
-          <div class="suite-Suite-class-passed">
-            <div class="main-panel-header rounded-window-top">
-              <img src="passed.png"/>
-              <span class="class-name">testcases.Signin</span>
-            </div> <!-- main-panel-header rounded-window-top -->
-            <div class="main-panel-content rounded-window-bottom">
-              <div class="method">
-                <div class="method-content">
-                  <a name="login">
-                  </a> <!-- login -->
-                  <span class="method-name">login</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-            </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-Suite-class-passed -->
           <div class="suite-Suite-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
@@ -591,6 +616,21 @@ Session ID: 7bcb8a62c527a33cd868aa390ef8d9ec
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
           </div> <!-- suite-Suite-class-passed -->
+          <div class="suite-Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">testcases.Signin</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="login">
+                  </a> <!-- login -->
+                  <span class="method-name">login</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-passed -->
         </div> <!-- panel Suite -->
         <div panel-name="test-xml-Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
@@ -610,6 +650,7 @@ Session ID: 7bcb8a62c527a33cd868aa390ef8d9ec
       &lt;class name=&quot;testcases.Signin&quot;/&gt;
       &lt;class name=&quot;testcases.Basiccontrol&quot;/&gt;
       &lt;class name=&quot;testcases.stepactionwithdataentries&quot;/&gt;
+      &lt;class name=&quot;testcases.signout&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Signin --&gt;
 &lt;/suite&gt; &lt;!-- Suite --&gt;
@@ -623,7 +664,7 @@ Session ID: 7bcb8a62c527a33cd868aa390ef8d9ec
           <div class="main-panel-content rounded-window-bottom">
             <ul>
               <li>
-                <span class="test-name">Signin (3 classes)</span>
+                <span class="test-name">Signin (4 classes)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -649,151 +690,155 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(36);
+data.addRows(37);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'section1')
-data.setCell(0, 2, 'testcases.stepactionwithdataentries')
-data.setCell(0, 3, 54345);
+data.setCell(0, 1, 'section')
+data.setCell(0, 2, 'testcases.Basiccontrol')
+data.setCell(0, 3, 36568);
 data.setCell(1, 0, 1)
 data.setCell(1, 1, 'login')
 data.setCell(1, 2, 'testcases.Signin')
-data.setCell(1, 3, 43921);
+data.setCell(1, 3, 31851);
 data.setCell(2, 0, 2)
 data.setCell(2, 1, 'Add')
 data.setCell(2, 2, 'testcases.Basiccontrol')
-data.setCell(2, 3, 30255);
+data.setCell(2, 3, 30258);
 data.setCell(3, 0, 3)
 data.setCell(3, 1, 'Dataentry')
 data.setCell(3, 2, 'testcases.Basiccontrol')
-data.setCell(3, 3, 30179);
+data.setCell(3, 3, 30208);
 data.setCell(4, 0, 4)
-data.setCell(4, 1, 'Proceduresnippet')
-data.setCell(4, 2, 'testcases.Basiccontrol')
-data.setCell(4, 3, 25650);
+data.setCell(4, 1, 'section1')
+data.setCell(4, 2, 'testcases.stepactionwithdataentries')
+data.setCell(4, 3, 29677);
 data.setCell(5, 0, 5)
-data.setCell(5, 1, 'Warning')
+data.setCell(5, 1, 'Proceduresnippet')
 data.setCell(5, 2, 'testcases.Basiccontrol')
-data.setCell(5, 3, 25290);
+data.setCell(5, 3, 25703);
 data.setCell(6, 0, 6)
-data.setCell(6, 1, 'section')
+data.setCell(6, 1, 'Warning')
 data.setCell(6, 2, 'testcases.Basiccontrol')
-data.setCell(6, 3, 14267);
+data.setCell(6, 3, 25304);
 data.setCell(7, 0, 7)
-data.setCell(7, 1, 'stepaction')
+data.setCell(7, 1, 'control')
 data.setCell(7, 2, 'testcases.Basiccontrol')
-data.setCell(7, 3, 11695);
+data.setCell(7, 3, 21015);
 data.setCell(8, 0, 8)
-data.setCell(8, 1, 'Column5')
+data.setCell(8, 1, 'stepaction')
 data.setCell(8, 2, 'testcases.Basiccontrol')
-data.setCell(8, 3, 10527);
+data.setCell(8, 3, 11689);
 data.setCell(9, 0, 9)
-data.setCell(9, 1, 'Datatypedropdown2')
+data.setCell(9, 1, 'Column5')
 data.setCell(9, 2, 'testcases.Basiccontrol')
-data.setCell(9, 3, 9279);
+data.setCell(9, 3, 10588);
 data.setCell(10, 0, 10)
-data.setCell(10, 1, 'Column2')
+data.setCell(10, 1, 'Datatypedropdown2')
 data.setCell(10, 2, 'testcases.Basiccontrol')
-data.setCell(10, 3, 8597);
+data.setCell(10, 3, 9241);
 data.setCell(11, 0, 11)
-data.setCell(11, 1, 'Column3')
+data.setCell(11, 1, 'Column2')
 data.setCell(11, 2, 'testcases.Basiccontrol')
-data.setCell(11, 3, 6469);
+data.setCell(11, 3, 8577);
 data.setCell(12, 0, 12)
-data.setCell(12, 1, 'Alara')
+data.setCell(12, 1, 'Column3')
 data.setCell(12, 2, 'testcases.Basiccontrol')
-data.setCell(12, 3, 6271);
+data.setCell(12, 3, 6484);
 data.setCell(13, 0, 13)
-data.setCell(13, 1, 'Formula')
+data.setCell(13, 1, 'Alara')
 data.setCell(13, 2, 'testcases.Basiccontrol')
-data.setCell(13, 3, 5240);
+data.setCell(13, 3, 6328);
 data.setCell(14, 0, 14)
 data.setCell(14, 1, 'Label')
 data.setCell(14, 2, 'testcases.Basiccontrol')
-data.setCell(14, 3, 5236);
+data.setCell(14, 3, 5277);
 data.setCell(15, 0, 15)
-data.setCell(15, 1, 'Column4')
+data.setCell(15, 1, 'Formula')
 data.setCell(15, 2, 'testcases.Basiccontrol')
-data.setCell(15, 3, 4533);
+data.setCell(15, 3, 5223);
 data.setCell(16, 0, 16)
-data.setCell(16, 1, 'Row')
+data.setCell(16, 1, 'subsection')
 data.setCell(16, 2, 'testcases.Basiccontrol')
-data.setCell(16, 3, 4325);
+data.setCell(16, 3, 4512);
 data.setCell(17, 0, 17)
-data.setCell(17, 1, 'Column')
+data.setCell(17, 1, 'Column4')
 data.setCell(17, 2, 'testcases.Basiccontrol')
-data.setCell(17, 3, 4313);
+data.setCell(17, 3, 4486);
 data.setCell(18, 0, 18)
 data.setCell(18, 1, 'Textdataentry')
 data.setCell(18, 2, 'testcases.Basiccontrol')
-data.setCell(18, 3, 4308);
+data.setCell(18, 3, 4307);
 data.setCell(19, 0, 19)
-data.setCell(19, 1, 'subsection')
+data.setCell(19, 1, 'Column')
 data.setCell(19, 2, 'testcases.Basiccontrol')
-data.setCell(19, 3, 3885);
+data.setCell(19, 3, 4274);
 data.setCell(20, 0, 20)
-data.setCell(20, 1, 'signaturestep')
+data.setCell(20, 1, 'Row')
 data.setCell(20, 2, 'testcases.Basiccontrol')
-data.setCell(20, 3, 3775);
+data.setCell(20, 3, 4270);
 data.setCell(21, 0, 21)
-data.setCell(21, 1, 'Ok')
+data.setCell(21, 1, 'signaturestep')
 data.setCell(21, 2, 'testcases.Basiccontrol')
-data.setCell(21, 3, 2575);
+data.setCell(21, 3, 3811);
 data.setCell(22, 0, 22)
-data.setCell(22, 1, 'Table')
+data.setCell(22, 1, 'Ok')
 data.setCell(22, 2, 'testcases.Basiccontrol')
-data.setCell(22, 3, 2306);
+data.setCell(22, 3, 2511);
 data.setCell(23, 0, 23)
-data.setCell(23, 1, 'Ok1')
+data.setCell(23, 1, 'Table')
 data.setCell(23, 2, 'testcases.Basiccontrol')
-data.setCell(23, 3, 2301);
+data.setCell(23, 3, 2311);
 data.setCell(24, 0, 24)
-data.setCell(24, 1, 'Datatypedropdown')
+data.setCell(24, 1, 'Columnbutton')
 data.setCell(24, 2, 'testcases.Basiccontrol')
-data.setCell(24, 3, 2228);
+data.setCell(24, 3, 2298);
 data.setCell(25, 0, 25)
-data.setCell(25, 1, 'Columnbutton')
+data.setCell(25, 1, 'Ok1')
 data.setCell(25, 2, 'testcases.Basiccontrol')
-data.setCell(25, 3, 2204);
+data.setCell(25, 3, 2281);
 data.setCell(26, 0, 26)
-data.setCell(26, 1, 'Holdstep')
+data.setCell(26, 1, 'Datatypedropdown')
 data.setCell(26, 2, 'testcases.Basiccontrol')
-data.setCell(26, 3, 2194);
+data.setCell(26, 3, 2215);
 data.setCell(27, 0, 27)
 data.setCell(27, 1, 'Numberdataentry')
 data.setCell(27, 2, 'testcases.Basiccontrol')
-data.setCell(27, 3, 2088);
+data.setCell(27, 3, 2106);
 data.setCell(28, 0, 28)
-data.setCell(28, 1, 'Timedstep')
+data.setCell(28, 1, 'Holdstep')
 data.setCell(28, 2, 'testcases.Basiccontrol')
-data.setCell(28, 3, 1233);
+data.setCell(28, 3, 2103);
 data.setCell(29, 0, 29)
-data.setCell(29, 1, 'Repeatstep')
-data.setCell(29, 2, 'testcases.Basiccontrol')
-data.setCell(29, 3, 1127);
+data.setCell(29, 1, 'signout1')
+data.setCell(29, 2, 'testcases.signout')
+data.setCell(29, 3, 2006);
 data.setCell(30, 0, 30)
-data.setCell(30, 1, 'Delaystep')
+data.setCell(30, 1, 'Repeatstep')
 data.setCell(30, 2, 'testcases.Basiccontrol')
-data.setCell(30, 3, 1012);
+data.setCell(30, 3, 1191);
 data.setCell(31, 0, 31)
-data.setCell(31, 1, 'stepinfo')
+data.setCell(31, 1, 'Timedstep')
 data.setCell(31, 2, 'testcases.Basiccontrol')
-data.setCell(31, 3, 917);
+data.setCell(31, 3, 1180);
 data.setCell(32, 0, 32)
-data.setCell(32, 1, 'control')
+data.setCell(32, 1, 'Delaystep')
 data.setCell(32, 2, 'testcases.Basiccontrol')
-data.setCell(32, 3, 341);
+data.setCell(32, 3, 1091);
 data.setCell(33, 0, 33)
-data.setCell(33, 1, 'Paragrapgh')
+data.setCell(33, 1, 'stepinfo')
 data.setCell(33, 2, 'testcases.Basiccontrol')
-data.setCell(33, 3, 289);
+data.setCell(33, 3, 1074);
 data.setCell(34, 0, 34)
 data.setCell(34, 1, 'Caution')
 data.setCell(34, 2, 'testcases.Basiccontrol')
-data.setCell(34, 3, 253);
+data.setCell(34, 3, 271);
 data.setCell(35, 0, 35)
 data.setCell(35, 1, 'Note')
 data.setCell(35, 2, 'testcases.Basiccontrol')
-data.setCell(35, 3, 242);
+data.setCell(35, 3, 250);
+data.setCell(36, 0, 36)
+data.setCell(36, 1, 'Paragrapgh')
+data.setCell(36, 2, 'testcases.Basiccontrol')
+data.setCell(36, 3, 240);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
@@ -834,139 +879,139 @@ return data;
               <div class="chronological-class-name">testcases.Basiccontrol</div> <!-- chronological-class-name -->
               <div class="test-method">
                 <span class="method-name">section</span>
-                <span class="method-start">43939 ms</span>
+                <span class="method-start">31869 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">control</span>
-                <span class="method-start">58212 ms</span>
+                <span class="method-start">68441 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">subsection</span>
-                <span class="method-start">58557 ms</span>
+                <span class="method-start">89460 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">stepaction</span>
-                <span class="method-start">62445 ms</span>
+                <span class="method-start">93975 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">signaturestep</span>
-                <span class="method-start">74144 ms</span>
+                <span class="method-start">105666 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">stepinfo</span>
-                <span class="method-start">77924 ms</span>
+                <span class="method-start">109480 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">Delaystep</span>
-                <span class="method-start">78844 ms</span>
+                <span class="method-start">110557 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">Timedstep</span>
-                <span class="method-start">79858 ms</span>
+                <span class="method-start">111651 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">Repeatstep</span>
-                <span class="method-start">81094 ms</span>
+                <span class="method-start">112833 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">Holdstep</span>
-                <span class="method-start">82223 ms</span>
+                <span class="method-start">114027 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">Proceduresnippet</span>
-                <span class="method-start">84419 ms</span>
+                <span class="method-start">116136 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">Add</span>
-                <span class="method-start">110071 ms</span>
+                <span class="method-start">141842 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">Warning</span>
-                <span class="method-start">140328 ms</span>
+                <span class="method-start">172103 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">Caution</span>
-                <span class="method-start">165621 ms</span>
+                <span class="method-start">197409 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">Note</span>
-                <span class="method-start">165876 ms</span>
+                <span class="method-start">197683 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">Alara</span>
-                <span class="method-start">166121 ms</span>
+                <span class="method-start">197935 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">Paragrapgh</span>
-                <span class="method-start">172395 ms</span>
+                <span class="method-start">204265 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">Label</span>
-                <span class="method-start">172686 ms</span>
+                <span class="method-start">204507 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">Formula</span>
-                <span class="method-start">177924 ms</span>
+                <span class="method-start">209786 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">Dataentry</span>
-                <span class="method-start">183166 ms</span>
+                <span class="method-start">215011 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">Table</span>
-                <span class="method-start">213347 ms</span>
+                <span class="method-start">245221 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">Column</span>
-                <span class="method-start">215656 ms</span>
+                <span class="method-start">247534 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">Row</span>
-                <span class="method-start">219971 ms</span>
+                <span class="method-start">251810 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">Ok</span>
-                <span class="method-start">224297 ms</span>
+                <span class="method-start">256083 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">Columnbutton</span>
-                <span class="method-start">226874 ms</span>
+                <span class="method-start">258597 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">Datatypedropdown</span>
-                <span class="method-start">229081 ms</span>
+                <span class="method-start">260897 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">Textdataentry</span>
-                <span class="method-start">231312 ms</span>
+                <span class="method-start">263114 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">Column2</span>
-                <span class="method-start">235622 ms</span>
+                <span class="method-start">267423 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">Column3</span>
-                <span class="method-start">244221 ms</span>
+                <span class="method-start">276002 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">Numberdataentry</span>
-                <span class="method-start">250692 ms</span>
+                <span class="method-start">282487 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">Column4</span>
-                <span class="method-start">252782 ms</span>
+                <span class="method-start">284596 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">Datatypedropdown2</span>
-                <span class="method-start">257317 ms</span>
+                <span class="method-start">289084 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">Column5</span>
-                <span class="method-start">266598 ms</span>
+                <span class="method-start">298326 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">Ok1</span>
-                <span class="method-start">277127 ms</span>
+                <span class="method-start">308916 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
@@ -975,7 +1020,16 @@ return data;
                 <img src="failed.png">
                 </img>
                 <span class="method-name">section1</span>
-                <span class="method-start">279431 ms</span>
+                <span class="method-start">311199 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">testcases.signout</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">signout1</span>
+                <span class="method-start">341079 ms</span>
               </div> <!-- test-method -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

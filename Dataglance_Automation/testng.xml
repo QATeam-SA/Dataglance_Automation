@@ -12,6 +12,7 @@
 			<class name="testcases.Signin" />
 			<class name="testcases.Basiccontrol" />
 			<class name="testcases.stepactionwithdataentries" />
+			<class name="testcases.signout" />
 		</classes>
 
 	</test> 
