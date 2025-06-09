@@ -7,16 +7,24 @@
   </listeners>
   <test thread-count="5" name="Signin(failed)">
     <classes>
-      <class name="testcases.stepactionwithdataentries">
+      <class name="testcases.Signin">
         <methods>
-          <include name="section1"/>
+          <include name="login"/>
         </methods>
-      </class> <!-- testcases.stepactionwithdataentries -->
-      <class name="testcases.signout">
+      </class> <!-- testcases.Signin -->
+      <class name="testcases.Basiccontrol">
         <methods>
-          <include name="signout1"/>
+          <include name="Repeatstep"/>
+          <include name="Holdstep"/>
+          <include name="stepaction"/>
+          <include name="Proceduresnippet"/>
+          <include name="signaturestep"/>
+          <include name="subsection"/>
+          <include name="Delaystep"/>
+          <include name="Timedstep"/>
+          <include name="stepinfo"/>
         </methods>
-      </class> <!-- testcases.signout -->
+      </class> <!-- testcases.Basiccontrol -->
     </classes>
   </test> <!-- Signin(failed) -->
 </suite> <!-- Failed suite [Suite] -->
