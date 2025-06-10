@@ -29,25 +29,29 @@ public class media {
 
 	@Test(priority = 1, enabled = true)
 	public void section() throws InterruptedException, Exception {
-		driver.findElement(By.xpath(prop.getProperty("Section"))).click();
 		Thread.sleep(8000);
-		driver.findElement(By.xpath(prop.getProperty("Basic"))).click();
-		Thread.sleep(2000);
-		driver.findElement(By.xpath(prop.getProperty("Section2"))).click();
-		Thread.sleep(10000);
-//Scroll and click the clickable parent (often a button or div)
-		WebElement sectionSpan = driver
-				.findElement(By.xpath("//span[contains(@class, 'formcomponent') and contains(text(), 'Section')]/..") // click
-																														// parent
-				);
-		((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", sectionSpan);
-		((JavascriptExecutor) driver).executeScript("arguments[0].click();", sectionSpan);
-
+		driver.findElement(By.xpath("//textarea[@id='step1']")).click();
+		Thread.sleep(8000);
+		driver.findElement(By.xpath("//textarea[contains(@class,'form-control stepSectionStyle bordernone customrSpace ng-tns-c233-11 ng-untouched ng-pristine ng-valid ng-star-inserted width-97')]")).sendKeys("SectionwithMedia");
+		Thread.sleep(8000);
+		/*
+		 * driver.findElement(By.xpath(prop.getProperty("Basic"))).click();
+		 * Thread.sleep(2000);
+		 * driver.findElement(By.xpath(prop.getProperty("Section2"))).click();
+		 * Thread.sleep(10000); //Scroll and click the clickable parent (often a button
+		 * or div) WebElement sectionSpan = driver .findElement(By.
+		 * xpath("//span[contains(@class, 'formcomponent') and contains(text(), 'Section')]/.."
+		 * ) // click // parent ); ((JavascriptExecutor)
+		 * driver).executeScript("arguments[0].scrollIntoView(true);", sectionSpan);
+		 * ((JavascriptExecutor) driver).executeScript("arguments[0].click();",
+		 * sectionSpan);
+		 */
 //Wait after clicking before interacting with form
 		Thread.sleep(4000);
 
 //Enter text in Section1
-		driver.findElement(By.xpath(prop.getProperty("Section1"))).sendKeys("Section with Media");
+
+		driver.findElement(By.xpath(prop.getProperty("Section1"))).sendKeys("SectionwithMedia");
 		Thread.sleep(4000);
 
 //Click on stepaction button

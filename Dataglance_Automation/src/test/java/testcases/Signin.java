@@ -22,9 +22,9 @@ public class Signin {
     	
     	driver.manage().window().maximize();
 		driver.get(prop.getProperty("dg_url"));
-		Thread.sleep(4000);
+		Thread.sleep(8000);
 		driver.findElement(By.xpath(prop.getProperty("user_Id"))).sendKeys(prop.getProperty("Enter_UserId"));
-		Thread.sleep(2000);
+		Thread.sleep(8000);
 		driver.findElement(By.xpath(prop.getProperty("Password"))).sendKeys(prop.getProperty("Enter_Password"));
 		Thread.sleep(2000);
 		driver.findElement(By.xpath(prop.getProperty("Login_Button"))).click();

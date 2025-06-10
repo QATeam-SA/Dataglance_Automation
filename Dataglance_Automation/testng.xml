@@ -11,6 +11,11 @@
 		<classes>
 			<class name="testcases.Signin" />
 			<class name="testcases.Basiccontrol" />
+			<class name="testcases.stepactionwithdataentries" />
+			<class name="testcases.media" />
+			<class name="testcases.verification" />
+			<class name="testcases.executor" />
+			
 			
 		
 		</classes>
