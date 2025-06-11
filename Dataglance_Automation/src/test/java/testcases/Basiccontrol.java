@@ -148,7 +148,7 @@ public class Basiccontrol {
 	  ((JavascriptExecutor) driver).executeScript("arguments[0].click();",
 	  sectionElement1);
 	  
-	  Thread.sleep(2500);
+	  Thread.sleep(5500);
 	  
 	  driver.findElement(By.xpath(prop.getProperty("Section"))).click();
 	  
