@@ -28,13 +28,15 @@ public class verification {
 	driver.findElement(By.xpath(prop.getProperty("Basic"))).click();
 	Thread.sleep(2000);
 	driver.findElement(By.xpath(prop.getProperty("Section2"))).click();
-	Thread.sleep(1000);
+	Thread.sleep(4000);
 	driver.findElement(By.xpath(prop.getProperty("Section3"))).sendKeys("Verification");
-	Thread.sleep(1000);
+	Thread.sleep(4000);
 	driver.findElement(By.xpath(prop.getProperty("stepaction"))).click();
-	Thread.sleep(1000);
-	driver.findElement(By.xpath(prop.getProperty("stepaction1"))).sendKeys("Verification");
-	Thread.sleep(1000);
+	Thread.sleep(6000);
+	WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(40));
+	WebElement textArea = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//div[@class='textareacont sticky removemb ng-tns-c233-12 dscenter ng-star-inserted']")));
+	textArea.sendKeys("Verification");
+	Thread.sleep(6000);
 	driver.findElement(By.xpath(prop.getProperty("Verification1"))).click();
 	/*
 	 * // Wait and click on the expand/collapse button WebDriverWait wait = new
@@ -49,12 +51,12 @@ public class verification {
 	 * element.isDisplayed()); System.out.println("Enabled: " +
 	 * element.isEnabled()); System.out.println("Text: " + element.getText());
 	 */
-	Thread.sleep(4000);
+	Thread.sleep(6000);
 	WebElement source = driver.findElement(By.xpath(prop.getProperty("independent")));
 	WebElement target = driver.findElement(By.xpath(prop.getProperty("stepaction1")));
 
 //Wait until elements are visible
-	WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(30));
+	WebDriverWait wait1 = new WebDriverWait(driver, Duration.ofSeconds(50));
 	wait.until(ExpectedConditions.visibilityOf(source));
 	wait.until(ExpectedConditions.visibilityOf(target));
 

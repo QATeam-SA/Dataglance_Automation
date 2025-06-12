@@ -32,20 +32,22 @@ public class media {
 		Thread.sleep(8000);
 		driver.findElement(By.xpath("//textarea[@id='step1']")).click();
 		Thread.sleep(8000);
-		driver.findElement(By.xpath("//textarea[contains(@class,'form-control stepSectionStyle bordernone customrSpace ng-tns-c233-11 ng-untouched ng-pristine ng-valid ng-star-inserted width-97')]")).sendKeys("SectionwithMedia");
 		Thread.sleep(8000);
-		/*
-		 * driver.findElement(By.xpath(prop.getProperty("Basic"))).click();
-		 * Thread.sleep(2000);
-		 * driver.findElement(By.xpath(prop.getProperty("Section2"))).click();
-		 * Thread.sleep(10000); //Scroll and click the clickable parent (often a button
-		 * or div) WebElement sectionSpan = driver .findElement(By.
-		 * xpath("//span[contains(@class, 'formcomponent') and contains(text(), 'Section')]/.."
-		 * ) // click // parent ); ((JavascriptExecutor)
-		 * driver).executeScript("arguments[0].scrollIntoView(true);", sectionSpan);
-		 * ((JavascriptExecutor) driver).executeScript("arguments[0].click();",
-		 * sectionSpan);
-		 */
+		
+		  driver.findElement(By.xpath(prop.getProperty("Basic"))).click();
+		  Thread.sleep(2000);
+		  driver.findElement(By.xpath(prop.getProperty("Section2"))).click();
+			Thread.sleep(10000); /*
+									 * //Scroll and click the clickable parent (often a button or div) WebElement
+									 * sectionSpan = driver .findElement(By.
+									 * xpath("//span[contains(@class, 'formcomponent') and contains(text(), 'Section')]/.."
+									 * ) // click // parent ); ((JavascriptExecutor)
+									 * driver).executeScript("arguments[0].scrollIntoView(true);", sectionSpan);
+									 * ((JavascriptExecutor) driver).executeScript("arguments[0].click();",
+									 * sectionSpan);
+									 */
+			//driver.findElement(By.xpath("//textarea[contains(@class,'form-control stepSectionStyle bordernone customrSpace ng-tns-c233-11 ng-untouched ng-pristine ng-valid ng-star-inserted width-97')]")).sendKeys("SectionwithMedia");
+
 //Wait after clicking before interacting with form
 		Thread.sleep(4000);
 
@@ -128,7 +130,7 @@ public class media {
 		// Click on stepaction button
 		driver.findElement(By.xpath(prop.getProperty("stepaction2"))).click();
 		Thread.sleep(6000);
-		driver.findElement(By.xpath("(//textarea[@data-id='1_s_stephead'])[6]")).sendKeys("step action");
+		driver.findElement(By.xpath("(//textarea[@data-id='1_s_stephead'])[12]")).sendKeys("step action");
 		//Thread.sleep(10000);
 		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(30));
 		WebElement refelement = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("(//button[contains(@type,'button')])[7]")));
@@ -151,9 +153,15 @@ public class media {
 		 */
 
 		// Wait for the media gallery to be visible
+		 WebElement sectionElement1111 = wait
+				  .until(ExpectedConditions.presenceOfElementLocated(By.xpath(prop.getProperty(
+				  "Section")))); ((JavascriptExecutor)
+				  driver).executeScript("arguments[0].scrollIntoView(true);",
+				  sectionElement1111); ((JavascriptExecutor)
+				  driver).executeScript("arguments[0].click();", sectionElement1111);
 		Thread.sleep(4000);
 		WebElement source = driver.findElement(By.xpath(prop.getProperty("mediagallery")));
-		WebElement target = driver.findElement(By.xpath("(//textarea[@name='header'])[6]"));
+		WebElement target = driver.findElement(By.xpath("(//textarea[@name='header'])[12]"));
 
 		// Wait until elements are visible
 		WebDriverWait wait1 = new WebDriverWait(driver, Duration.ofSeconds(90));
