@@ -34,7 +34,7 @@ public class verification {
 	driver.findElement(By.xpath(prop.getProperty("stepaction"))).click();
 	Thread.sleep(6000);
 	WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(40));
-	WebElement textArea = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//div[@class='textareacont sticky removemb ng-tns-c233-12 dscenter ng-star-inserted']")));
+	WebElement textArea = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//textarea[@id='step239']")));
 	textArea.sendKeys("Verification");
 	Thread.sleep(6000);
 	driver.findElement(By.xpath(prop.getProperty("Verification1"))).click();
@@ -147,6 +147,11 @@ public class verification {
 //Perform drag and drop
 	Actions actions = new Actions(driver);
 	actions.dragAndDrop(source, target).perform();
+	Thread.sleep(2000);
+
+	driver.findElement(By.xpath(prop.getProperty("Repeatstep"))).click();
+	Thread.sleep(2000);
+	driver.findElement(By.xpath(prop.getProperty("Repeat"))).sendKeys("2");
 	Thread.sleep(2000);
 	driver.findElement(By.xpath(prop.getProperty("preview"))).click();
 }

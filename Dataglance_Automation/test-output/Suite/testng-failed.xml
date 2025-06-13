@@ -17,6 +17,12 @@
           <include name="peerverification"/>
         </methods>
       </class> <!-- testcases.verification -->
+      <class name="testcases.media">
+        <methods>
+          <include name="section"/>
+          <include name="mediagallery"/>
+        </methods>
+      </class> <!-- testcases.media -->
       <class name="testcases.executor">
         <methods>
           <include name="Closebutton"/>

@@ -20,7 +20,8 @@ public class executor {
 	WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(30));
 	@Test(priority = 1, enabled = true)
 	public void Closebutton() throws InterruptedException, Exception {
-	Thread.sleep(6000);
+	Thread.sleep(9000);
+	
 	driver.findElement(By.xpath(prop.getProperty("Close"))).click();
 
 }}
