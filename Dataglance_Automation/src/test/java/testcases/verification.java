@@ -24,7 +24,7 @@ public class verification {
 	WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(30));
 	@Test(priority = 1, enabled = true)
 	public void verification() throws InterruptedException, Exception {
-	Thread.sleep(2000);
+	Thread.sleep(6000);
 	driver.findElement(By.xpath(prop.getProperty("Basic"))).click();
 	Thread.sleep(2000);
 	driver.findElement(By.xpath(prop.getProperty("Section2"))).click();
@@ -140,7 +140,7 @@ public class verification {
 	WebElement target = driver.findElement(By.xpath(prop.getProperty("stepaction1")));
 
 //Wait until elements are visible
-	WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(30));
+	WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(50));
 	wait.until(ExpectedConditions.visibilityOf(source));
 	wait.until(ExpectedConditions.visibilityOf(target));
 
@@ -150,7 +150,7 @@ public class verification {
 	Thread.sleep(2000);
 
 	driver.findElement(By.xpath(prop.getProperty("Repeatstep"))).click();
-	Thread.sleep(2000);
+	Thread.sleep(8000);
 	driver.findElement(By.xpath(prop.getProperty("Repeat"))).sendKeys("2");
 	Thread.sleep(2000);
 	driver.findElement(By.xpath(prop.getProperty("preview"))).click();

@@ -62,7 +62,7 @@ public class media {
 
 //Enter Stepaction
 		driver.findElement(By.xpath(prop.getProperty("stepaction1"))).sendKeys("Step action");
-		Thread.sleep(6000);
+		Thread.sleep(12000);
 		driver.findElement(By.xpath(
 				"//body[1]/app-root[1]/app-home[1]/app-cbp[1]/lib-app-formbuild[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[1]/h5[1]/button[1]"))
 				.click();

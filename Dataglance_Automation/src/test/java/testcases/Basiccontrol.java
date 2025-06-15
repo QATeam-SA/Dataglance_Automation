@@ -283,7 +283,7 @@ public class Basiccontrol {
 
 	          ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", sectionElement);
 	          ((JavascriptExecutor) driver).executeScript("arguments[0].click();", sectionElement);
-
+	    
 	          // Final click (possibly redundant if JS click already worked)
 	          driver.findElement(By.xpath(prop.getProperty("Section"))).click();
 

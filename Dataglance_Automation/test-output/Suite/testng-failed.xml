@@ -7,27 +7,16 @@
   </listeners>
   <test thread-count="5" name="Signin(failed)">
     <classes>
-      <class name="testcases.verification">
-        <methods>
-          <include name="initialverification"/>
-          <include name="concurrentverification"/>
-          <include name="signatureverification"/>
-          <include name="verification"/>
-          <include name="QAverification"/>
-          <include name="peerverification"/>
-        </methods>
-      </class> <!-- testcases.verification -->
-      <class name="testcases.media">
-        <methods>
-          <include name="section"/>
-          <include name="mediagallery"/>
-        </methods>
-      </class> <!-- testcases.media -->
       <class name="testcases.executor">
         <methods>
           <include name="Closebutton"/>
         </methods>
       </class> <!-- testcases.executor -->
+      <class name="testcases.verification">
+        <methods>
+          <include name="initialverification"/>
+        </methods>
+      </class> <!-- testcases.verification -->
     </classes>
   </test> <!-- Signin(failed) -->
 </suite> <!-- Failed suite [Suite] -->
