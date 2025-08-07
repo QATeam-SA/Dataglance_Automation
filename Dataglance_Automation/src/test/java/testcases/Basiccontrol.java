@@ -119,6 +119,7 @@ public class Basiccontrol {
 		 * .until(ExpectedConditions.elementToBeClickable(By.xpath(prop.getProperty(
 		 * "Section")))); section.click();
 		 */
+		Thread.sleep(2500);
 		JavascriptExecutor js = (JavascriptExecutor) driver;
 		WebElement element = driver.findElement(By.xpath(prop.getProperty("Section")));
 		js.executeScript("arguments[0].scrollIntoView(true);", element);
@@ -148,8 +149,7 @@ public class Basiccontrol {
 	  ((JavascriptExecutor) driver).executeScript("arguments[0].click();",
 	  sectionElement1);
 	  
-	  Thread.sleep(5500);
-	  
+	 	  
 	  driver.findElement(By.xpath(prop.getProperty("Section"))).click();
 	  
 	  } catch (Exception e) {
@@ -159,6 +159,7 @@ public class Basiccontrol {
 	  @Test(priority = 6, enabled = true)
 	  public void stepinfo() throws InterruptedException {
 	      try {
+	    	 
 	          // Step info
 	          scrollAndClick(prop.getProperty("stepinfo"));
 	          waitAndType(prop.getProperty("stepinfo1"), "stepinfo12");
@@ -185,6 +186,7 @@ public class Basiccontrol {
 	  @Test(priority = 7, enabled = true)
 	  public void Delaystep() throws InterruptedException {
 	      try {
+	    	  Thread.sleep(1000);
 	          // Delay step
 	          scrollAndClick(prop.getProperty("Delaystep"));
 	          waitAndType(prop.getProperty("Delaystep1"), "Delaystep12");
@@ -199,7 +201,7 @@ public class Basiccontrol {
 
 	          ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", sectionElement111);
 	          ((JavascriptExecutor) driver).executeScript("arguments[0].click();", sectionElement111);
-
+	          Thread.sleep(5000);
 	          driver.findElement(By.xpath(prop.getProperty("Section"))).click();
 
 	      } catch (Exception e) {
@@ -211,6 +213,7 @@ public class Basiccontrol {
 
 	  @Test(priority = 8, enabled = true) public void Timedstep() throws
 	  InterruptedException { try { // Timed step
+		  Thread.sleep(1000);
 	  scrollAndClick(prop.getProperty("Timedstep"));
 	  waitAndType(prop.getProperty("Timedstep1"), "Timedstep12");
 	  
@@ -222,7 +225,7 @@ public class Basiccontrol {
 	  driver).executeScript("arguments[0].scrollIntoView(true);",
 	  sectionElement1111); ((JavascriptExecutor)
 	  driver).executeScript("arguments[0].click();", sectionElement1111);
-	  
+	  Thread.sleep(12000);
 	  driver.findElement(By.xpath(prop.getProperty("Section"))).click();
 	  
 	  } catch (Exception e) { logger.error("Error occurred in Timedstep method: ",
@@ -231,6 +234,7 @@ public class Basiccontrol {
 	  @Test(priority = 9, enabled = true)
 	  public void Repeatstep() throws InterruptedException {
 	      try {
+	    	  Thread.sleep(12000);
 	          // Repeat step - fixed XPath
 	          String repeatStepXPath = "//span[normalize-space()='Repeat Step' and contains(@class, 'btn') and contains(@class, 'drag-copy')]";
 	          System.out.println("Looking for XPath: " + repeatStepXPath);
@@ -262,6 +266,7 @@ public class Basiccontrol {
 
 	  @Test(priority = 10, enabled = true)
 	  public void Holdstep() throws InterruptedException {
+	
 	      try {
 	          // Click on Holdstep button
 	          driver.findElement(By.xpath(prop.getProperty("Holdstep"))).click();
@@ -278,7 +283,7 @@ public class Basiccontrol {
 
 	          ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", sectionElement);
 	          ((JavascriptExecutor) driver).executeScript("arguments[0].click();", sectionElement);
-
+	    
 	          // Final click (possibly redundant if JS click already worked)
 	          driver.findElement(By.xpath(prop.getProperty("Section"))).click();
 
@@ -351,7 +356,9 @@ public class Basiccontrol {
 		 
 
   @Test(priority = 13, enabled = true) public void Warning() throws
-  InterruptedException { try { Thread.sleep(25000);
+  
+  InterruptedException { try {
+	  Thread.sleep(50000);
   wait.until(ExpectedConditions.elementToBeClickable(By.xpath(prop.getProperty(
   "Warning")))).click(); } catch (Exception e) {
   logger.error("Error occurred in Warning method: ", e); throw e; } }
@@ -371,61 +378,71 @@ public class Basiccontrol {
   logger.error("Error occurred in Note method: ", e); throw e; } }
  
 
+
   @Test(priority = 16, enabled = true) public void Alara() throws
   InterruptedException { try {
   wait.until(ExpectedConditions.elementToBeClickable(By.xpath(prop.getProperty(
   "Alara")))).click(); Thread.sleep(1000); } catch (Exception e) {
-  logger.error("Error occurred in Alara method: ", e); throw e; } }
- 
-
+  logger.error("Error occurred in Alara method: ", e);
+  throw e; }
+  JavascriptExecutor js = (JavascriptExecutor) driver;
+  js.executeScript("window.scrollBy(0,500)");}  // Scroll down 500 pixels}
+  
+  
   @Test(priority = 17, enabled = true) public void Paragrapgh() throws
   InterruptedException { try {
+	  WebElement sectionElement1111 = wait
+			  .until(ExpectedConditions.presenceOfElementLocated(By.xpath(prop.getProperty(
+			  "Section")))); ((JavascriptExecutor)
+			  driver).executeScript("arguments[0].scrollIntoView(true);",
+			  sectionElement1111); ((JavascriptExecutor)
+			  driver).executeScript("arguments[0].click();", sectionElement1111);
   wait.until(ExpectedConditions.elementToBeClickable(By.xpath(prop.getProperty(
   "Paragrapgh")))).click(); } catch (Exception e) {
-  logger.error("Error occurred in Paragrapgh method: ", e); throw e; } }
+  logger.error("Error occurred in Paragrapgh method: ", e); throw e;} }
   
- 
-
+  
+  
   @Test(priority = 18, enabled = true) public void Label() throws
   InterruptedException { try { Thread.sleep(5000);
   wait.until(ExpectedConditions.elementToBeClickable(By.xpath(prop.getProperty(
   "Label")))).click(); } catch (Exception e) {
   logger.error("Error occurred in Label method: ", e); throw e; } }
- 
-
+  
+  
   @Test(priority = 19, enabled = true) public void Formula() throws
   InterruptedException { try { JavascriptExecutor js = (JavascriptExecutor)
   driver; js.executeScript("window.scrollBy(0,1000)"); Thread.sleep(5000);
   wait.until(ExpectedConditions.elementToBeClickable(By.xpath(prop.getProperty(
   "Formula")))).click(); } catch (Exception e) {
   logger.error("Error occurred in Formula method: ", e); throw e; } }
- 
-
+  
+  
   @Test(priority = 20, enabled = true) public void Dataentry() throws
   InterruptedException { try { Thread.sleep(30000);
   driver.findElement(By.xpath(prop.getProperty("Dataentry"))).click(); } catch
   (Exception e) { logger.error("Error occurred in Dataentry method: ", e);
   throw e; } }
- 
-
+  
+  
   @Test(priority = 21, enabled = true) public void Table() throws
   InterruptedException { try { Thread.sleep(2000);
   driver.findElement(By.xpath(prop.getProperty("Table"))).click(); } catch
   (Exception e) { logger.error("Error occurred in Table method: ", e); throw e;
   } }
- 
-	
-	  @Test(priority = 22, enabled = true) public void Column() throws
-	  InterruptedException { try {
-	  
-	  Thread.sleep(2000);
-	  driver.findElement(By.xpath(prop.getProperty("Column"))).clear();
-	  Thread.sleep(2000);
-	  driver.findElement(By.xpath(prop.getProperty("Column"))).sendKeys("5"); }
-	  catch (Exception e) { logger.error("Error occurred in Column method: ", e);
-	  throw e; } }
-	 
-
+  
+  
+  @Test(priority = 22, enabled = true) public void Column() throws
+  InterruptedException { try {
+  
+  Thread.sleep(2000);
+  driver.findElement(By.xpath(prop.getProperty("Column"))).clear();
+  Thread.sleep(2000);
+  driver.findElement(By.xpath(prop.getProperty("Column"))).sendKeys("5"); }
+  catch (Exception e) { logger.error("Error occurred in Column method: ", e);
+  throw e; } }
+  
+  
   @Test(priority = 23, enabled = true) public void Row() throws
   InterruptedException { try { Thread.sleep(2000);
   driver.findElement(By.xpath(prop.getProperty("Row"))).clear();
@@ -433,37 +450,37 @@ public class Basiccontrol {
   driver.findElement(By.xpath(prop.getProperty("Row"))).sendKeys("5"); } catch
   (Exception e) { logger.error("Error occurred in Row method: ", e); throw e; }
   }
- 
-		
-		  @Test(priority = 24, enabled = true) public void Ok() throws
-		  InterruptedException { try { Thread.sleep(2000);
-		  driver.findElement(By.xpath(prop.getProperty("Ok"))).click(); } catch
-		  (Exception e) { logger.error("Error occurred in Ok method: ", e); throw e; }
-		  }
-		 
-		
-		  @Test(priority = 25, enabled = true) public void Columnbutton() throws
-		  InterruptedException { try { Thread.sleep(2000);
-		  driver.findElement(By.xpath(prop.getProperty("Columnbutton"))).click(); }
-		  catch (Exception e) { logger.error("Error occurred in Columnbutton method: ",
-		  e); throw e; } }
-		 
-	
-	  @Test(priority = 26, enabled = true) public void Datatypedropdown() throws
-	  InterruptedException { try { Thread.sleep(2000);
-	  driver.findElement(By.xpath(prop.getProperty("Datatypedropdown"))).click(); }
-	  catch (Exception e) {
-	  logger.error("Error occurred in Datatypedropdown method: ", e); throw e; } }
-	 
-
+  
+  
+  @Test(priority = 24, enabled = true) public void Ok() throws
+  InterruptedException { try { Thread.sleep(2000);
+  driver.findElement(By.xpath(prop.getProperty("Ok"))).click(); } catch
+  (Exception e) { logger.error("Error occurred in Ok method: ", e); throw e; }
+  }
+  
+  
+  @Test(priority = 25, enabled = true) public void Columnbutton() throws
+  InterruptedException { try { Thread.sleep(2000);
+  driver.findElement(By.xpath(prop.getProperty("Columnbutton"))).click(); }
+  catch (Exception e) { logger.error("Error occurred in Columnbutton method: ",
+  e); throw e; } }
+  
+  
+  @Test(priority = 26, enabled = true) public void Datatypedropdown() throws
+  InterruptedException { try { Thread.sleep(2000);
+  driver.findElement(By.xpath(prop.getProperty("Datatypedropdown"))).click(); }
+  catch (Exception e) {
+  logger.error("Error occurred in Datatypedropdown method: ", e); throw e; } }
+  
+  
   @Test(priority = 27, enabled = true) public void Textdataentry() throws
   InterruptedException { try { Thread.sleep(2000); WebElement e
   =driver.findElement(By.xpath(prop.getProperty("Datatypedropdown"))); Select
-  ss = new Select(e); Thread.sleep(2000); ss.selectByIndex(0); } catch
+  ss = new Select(e); Thread.sleep(2000); ss.selectByIndex(5); } catch
   (Exception e) { logger.error("Error occurred in Textdataentry method: ", e);
   throw e; } }
- 
-
+  
+  
   @Test(priority = 28, enabled = true) public void Column2() throws
   InterruptedException {
   
@@ -471,26 +488,25 @@ public class Basiccontrol {
   driver.findElement(By.xpath(prop.getProperty("Column2"))).click();
   Thread.sleep(2000); WebElement e
   =driver.findElement(By.xpath(prop.getProperty("Datatypedropdown"))); Select
-  ss = new Select(e); Thread.sleep(2000); ss.selectByIndex(1);
-  }
- 
-	  
-		
-		  @Test(priority = 29, enabled = true) public void Datatypedropdown12() throws
-		  InterruptedException { try { Thread.sleep(10000); WebElement e
-		  =driver.findElement(By.xpath(prop.getProperty("Datatypedropdown"))); Select
-		  ss = new Select(e); Thread.sleep(2000); ss.selectByIndex(2); } catch
-		  (Exception e) { logger.error("Error occurred in Datatypedropdown1 method: ",
-		  e); throw e; } }
-		 
-	
-	  @Test(priority = 30, enabled = true) public void Textareadataentry() throws
-	  InterruptedException { try { Thread.sleep(2000);
-	  driver.findElement(By.xpath(prop.getProperty("Textareadataentry"))).click();
-	  } catch (Exception e) {
-	  logger.error("Error occurred in Textareadataentry method: ", e); throw e; } }
-	 
-
+  ss = new Select(e); Thread.sleep(2000); ss.selectByIndex(6); }
+  
+  
+  
+  @Test(priority = 29, enabled = true) public void Datatypedropdown12() throws
+  InterruptedException { try { Thread.sleep(10000); WebElement e
+  =driver.findElement(By.xpath(prop.getProperty("Datatypedropdown"))); Select
+  ss = new Select(e); Thread.sleep(2000); ss.selectByIndex(6); } catch
+  (Exception e) { logger.error("Error occurred in Datatypedropdown1 method: ",
+  e); throw e; } }
+  
+  
+  @Test(priority = 30, enabled = true) public void Textareadataentry() throws
+  InterruptedException { try { Thread.sleep(2000);
+  driver.findElement(By.xpath(prop.getProperty("Textareadataentry"))).click();
+  } catch (Exception e) {
+  logger.error("Error occurred in Textareadataentry method: ", e); throw e; } }
+  
+  
   @Test(priority = 31, enabled = true) public void Column3() throws
   InterruptedException {
   
@@ -498,89 +514,89 @@ public class Basiccontrol {
   driver.findElement(By.xpath(prop.getProperty("Column3"))).click();
   Thread.sleep(2000); WebElement e
   =driver.findElement(By.xpath(prop.getProperty("Datatypedropdown"))); Select
-  ss = new Select(e); Thread.sleep(2000); ss.selectByIndex(2);
+  ss = new Select(e); Thread.sleep(2000); ss.selectByIndex(6);
   
   }
- 
-	  
-	  
-		
-		  @Test(priority = 32, enabled = true) public void Numberdataentry() throws
-		  InterruptedException { try { Thread.sleep(2000);
-		  driver.findElement(By.xpath(prop.getProperty("Numberdataentry"))).click(); }
-		  catch (Exception e) {
-		  logger.error("Error occurred in Numberdataentry method: ", e); throw e; } }
-		 
-	  
-	  
-
+  
+  
+  
+  
+  @Test(priority = 32, enabled = true) public void Numberdataentry() throws
+  InterruptedException { try { Thread.sleep(2000);
+  driver.findElement(By.xpath(prop.getProperty("Numberdataentry"))).click(); }
+  catch (Exception e) {
+  logger.error("Error occurred in Numberdataentry method: ", e); throw e; } }
+  
+  
+  
+  
   @Test(priority = 33, enabled = true) public void Column4() throws
   InterruptedException { try {
   driver.findElement(By.xpath(prop.getProperty("Column4"))).click();
   Thread.sleep(2000); WebElement e
   =driver.findElement(By.xpath(prop.getProperty("Datatypedropdown"))); Select
-  ss = new Select(e); Thread.sleep(2000); ss.selectByIndex(3); } catch
+  ss = new Select(e); Thread.sleep(2000); ss.selectByIndex(7); } catch
   (Exception e) { logger.error("Error occurred in Column4 method: ", e); throw
   e; }}
- 
-	  
-
+  
+  
+  
   @Test(priority = 34, enabled = true) public void Datatypedropdown2() throws
   InterruptedException { try { Thread.sleep(7000);WebElement e
   =driver.findElement(By.xpath(prop.getProperty("Datatypedropdown"))); Select
-  ss = new Select(e); Thread.sleep(2000); ss.selectByIndex(3); } catch
+  ss = new Select(e); Thread.sleep(2000); ss.selectByIndex(7); } catch
   (Exception e) { logger.error("Error occurred in Datatypedropdown3 method: ",
   e); throw e; } }
- 
-	  
-	  
-	  
-	
-	  @Test(priority = 35, enabled = true) public void Datedataentry() throws
-	  InterruptedException { try { Thread.sleep(2000);
-	  driver.findElement(By.xpath(prop.getProperty("Datedataentry"))).click(); }
-	  catch (Exception e) {
-	  
-	  logger.error("Error occurred in Datedataentry method: ", e); throw e; } }
-	 
-	  
-	  
-
+  
+  
+  
+  
+  
+  @Test(priority = 35, enabled = true) public void Datedataentry() throws
+  InterruptedException { try { Thread.sleep(2000);
+  driver.findElement(By.xpath(prop.getProperty("Datedataentry"))).click(); }
+  catch (Exception e) {
+  
+  logger.error("Error occurred in Datedataentry method: ", e); throw e; } }
+  
+  
+  
+  
   @Test(priority = 36, enabled = true) public void Column5() throws
   InterruptedException { try { Thread.sleep(8000);
   driver.findElement(By.xpath(prop.getProperty("Column5"))).click(); WebElement
   e = driver.findElement(By.xpath(prop.getProperty("Datatypedropdown")));
-  Select ss = new Select(e); Thread.sleep(2000); ss.selectByIndex(4); } catch
+  Select ss = new Select(e); Thread.sleep(2000); ss.selectByIndex(8); } catch
   (Exception e) { logger.error("Error occurred in Column5 method: ", e); throw
   e; }}
- 
-	  
-	  
-
+  
+  
+  
+  
   @Test(priority = 38, enabled = true) public void Datatypedropdown4() throws
   InterruptedException { try { WebElement e
   =driver.findElement(By.xpath(prop.getProperty("Datatypedropdown"))); Select
-  ss = new Select(e); Thread.sleep(2000); ss.selectByIndex(4); } catch
+  ss = new Select(e); Thread.sleep(2000); ss.selectByIndex(8); } catch
   (Exception e) { logger.error("Error occurred in Datatypedropdown4 method: ",
   e); throw e; }}
- 
-	  
-	  
-	
-	  @Test(priority = 39, enabled = true) public void Datedataentry1() throws
-	  InterruptedException { try { Thread.sleep(2000);
-	  driver.findElement(By.xpath(prop.getProperty("Column5"))).click();
-	  Thread.sleep(2000); WebElement e
-	  =driver.findElement(By.xpath(prop.getProperty("Datatypedropdown"))); Select
-	  ss = new Select(e); Thread.sleep(2000); ss.selectByIndex(4); } catch
-	  (Exception e) { logger.error("Error occurred in Datedataentry method: ", e);
-	  throw e; } }
-	 
-	  
-	  
-	  
-	  
-
+  
+  
+  
+  
+  @Test(priority = 39, enabled = true) public void Datedataentry1() throws
+  InterruptedException { try { Thread.sleep(2000);
+  driver.findElement(By.xpath(prop.getProperty("Column5"))).click();
+  Thread.sleep(2000); WebElement e
+  =driver.findElement(By.xpath(prop.getProperty("Datatypedropdown"))); Select
+  ss = new Select(e); Thread.sleep(2000); ss.selectByIndex(8); } catch
+  (Exception e) { logger.error("Error occurred in Datedataentry method: ", e);
+  throw e; } }
+  
+  
+  
+  
+  
+  
   @Test(priority = 40, enabled = true) public void Ok1() throws
   InterruptedException { try { Thread.sleep(2000);
   driver.findElement(By.xpath(prop.getProperty("Ok1"))).click(); } catch

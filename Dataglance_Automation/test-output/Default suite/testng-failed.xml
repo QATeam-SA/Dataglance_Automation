@@ -3,39 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testcases.stepactionwithdataentries">
+      <class name="testcases.verification">
         <methods>
-          <include name="Dropdowndataentry"/>
-          <include name="Datatypedropdown12"/>
-          <include name="Datatypedropdown4"/>
-          <include name="Buttondataentry"/>
-          <include name="Datatypedropdown2"/>
-          <include name="Datedataentry"/>
-          <include name="Column"/>
-          <include name="Textareadataentry2"/>
-          <include name="Checkboxdataentry"/>
-          <include name="Column3"/>
-          <include name="Numberdataentry2"/>
-          <include name="Datatypedropdown"/>
-          <include name="section1"/>
-          <include name="Checkboxgroupdataentry"/>
-          <include name="Column4"/>
-          <include name="Column5"/>
-          <include name="Column2"/>
-          <include name="Numberdataentry"/>
-          <include name="Booleandataentry"/>
-          <include name="Table"/>
-          <include name="Textdataentry"/>
-          <include name="Datedataentry1"/>
-          <include name="Ok"/>
-          <include name="Row"/>
-          <include name="Textareadataentry"/>
-          <include name="Ok1"/>
-          <include name="Columnbutton"/>
-          <include name="Datedataentry2"/>
-          <include name="Radiobuttondataentry"/>
+          <include name="verification"/>
         </methods>
-      </class> <!-- testcases.stepactionwithdataentries -->
+      </class> <!-- testcases.verification -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

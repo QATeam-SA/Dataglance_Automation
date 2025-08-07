@@ -7,40 +7,16 @@
   </listeners>
   <test thread-count="5" name="Signin(failed)">
     <classes>
-      <class name="testcases.Basiccontrol">
+      <class name="testcases.executor">
         <methods>
-          <include name="signaturestep"/>
+          <include name="Closebutton"/>
         </methods>
-      </class> <!-- testcases.Basiccontrol -->
-      <class name="testcases.stepactionwithdataentries">
+      </class> <!-- testcases.executor -->
+      <class name="testcases.verification">
         <methods>
-          <include name="Column3"/>
-          <include name="Numberdataentry2"/>
-          <include name="Datatypedropdown"/>
-          <include name="Column4"/>
-          <include name="Column5"/>
-          <include name="Column2"/>
-          <include name="Table"/>
-          <include name="Datatypedropdown12"/>
-          <include name="Textdataentry"/>
-          <include name="Datatypedropdown4"/>
-          <include name="Datedataentry1"/>
-          <include name="Ok"/>
-          <include name="Datatypedropdown2"/>
-          <include name="Row"/>
-          <include name="Column"/>
-          <include name="Textareadataentry2"/>
-          <include name="Ok1"/>
-          <include name="Columnbutton"/>
-          <include name="Datedataentry2"/>
+          <include name="initialverification"/>
         </methods>
-      </class> <!-- testcases.stepactionwithdataentries -->
-      <class name="testcases.media">
-        <methods>
-          <include name="section"/>
-          <include name="mediagallery"/>
-        </methods>
-      </class> <!-- testcases.media -->
+      </class> <!-- testcases.verification -->
     </classes>
   </test> <!-- Signin(failed) -->
 </suite> <!-- Failed suite [Suite] -->

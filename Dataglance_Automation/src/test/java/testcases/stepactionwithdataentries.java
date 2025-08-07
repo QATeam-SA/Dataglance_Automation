@@ -1,5 +1,7 @@
 package testcases;
 
+import java.awt.AWTException;
+import java.awt.Robot;
 import java.time.Duration;
 import java.util.Properties;
 
@@ -28,6 +30,10 @@ public class stepactionwithdataentries {
 	@Test(priority = 39, enabled = true)
 	public void section1() throws InterruptedException {
 		Thread.sleep(8000); // Consider using WebDriverWait instead of Thread.sleep
+		WebElement element = driver.findElement(By.xpath(prop.getProperty("Stepaction1")));
+		JavascriptExecutor js = (JavascriptExecutor) driver;
+		js.executeScript("arguments[0].scrollIntoView(true);", element);
+
 
 		driver.findElement(By.xpath(prop.getProperty("Stepaction1"))).sendKeys("1");
 		Thread.sleep(10000);
@@ -114,7 +120,10 @@ public class stepactionwithdataentries {
 	  target = driver.findElement(By.xpath(prop.getProperty( "stepaction12")));
 	  Actions actions = new Actions(driver);
 	  actions.moveToElement(source).clickAndHold().moveByOffset(10,
-	  10).moveToElement(target).release().build() .perform(); }
+	  10).moveToElement(target).release().build() .perform();
+	  JavascriptExecutor js = (JavascriptExecutor) driver;
+	  js.executeScript("window.scrollBy(0,1000)");  // Scroll down 500 pixels
+	  }
 	  
 	  @Test(priority = 46, enabled = true) public void Checkboxdataentry() throws
 	  InterruptedException { Thread.sleep(7000); WebElement source =
@@ -132,24 +141,77 @@ public class stepactionwithdataentries {
 	  actions.moveToElement(source).clickAndHold().moveByOffset(10,
 	  10).moveToElement(target).release().build() .perform(); }
 	  
-	  @Test(priority = 48, enabled = true) public void Dropdowndataentry() throws
-	  InterruptedException { Thread.sleep(7000); WebElement source =
-	  driver.findElement(By.xpath(prop.getProperty("Dropdown"))); WebElement target
-	  = driver.findElement(By.xpath(prop.getProperty( "stepaction12"))); Actions
-	  actions = new Actions(driver);
-	  actions.moveToElement(source).clickAndHold().moveByOffset(10,
-	  10).moveToElement(target).release().build() .perform(); }
+	  @Test(priority = 48, enabled = true)
+	  public void Dropdowndataentry() {
+	      WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+
+	      WebElement source = wait.until(ExpectedConditions.visibilityOfElementLocated(
+	          By.xpath(prop.getProperty("Dropdown"))));
+	      WebElement target = wait.until(ExpectedConditions.visibilityOfElementLocated(
+	          By.xpath(prop.getProperty("stepaction12"))));
+
+	      // Scroll both elements into view
+	      ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", source);
+	      ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", target);
+
+	      // Perform drag and drop
+	      Actions actions = new Actions(driver);
+	      actions.moveToElement(source)
+	             .clickAndHold()
+	             .moveToElement(target)
+	             .release()
+	             .build()
+	             .perform();
+	      JavascriptExecutor js = (JavascriptExecutor) driver;
+		  js.executeScript("window.scrollBy(0,500)");  // Scroll down 500 pixels
+	  }
+
 	 
 
 	
-	  @Test(priority = 49, enabled = true) public void Table() throws
-	  InterruptedException { Thread.sleep(7000); WebElement source =
-	  driver.findElement(By.xpath(prop.getProperty("Table"))); WebElement target =
-	  driver.findElement(By.xpath(prop.getProperty( "stepaction12"))); Actions
-	  actions = new Actions(driver);
-	  actions.moveToElement(source).clickAndHold().moveByOffset(10,
-	  10).moveToElement(target).release().build() .perform(); }
-	  
+	  @Test(priority = 49)
+	  public void Table() {
+	      // Step 1: Maximize window
+	      driver.manage().window().maximize();
+
+	      // Step 2: Wait for elements
+	      WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(30));
+	      WebElement source = wait.until(ExpectedConditions.elementToBeClickable(By.xpath(prop.getProperty("Table"))));
+	      WebElement target = wait.until(ExpectedConditions.elementToBeClickable(By.xpath(prop.getProperty("stepaction12"))));
+
+	      // Step 3: Scroll source and target into view
+	      JavascriptExecutor js = (JavascriptExecutor) driver;
+	      js.executeScript("arguments[0].scrollIntoView({block: 'center'});", source);
+	      js.executeScript("arguments[0].scrollIntoView({block: 'center'});", target);
+	      JavascriptExecutor js1 = (JavascriptExecutor) driver;
+	      js1.executeScript("arguments[0].scrollIntoView({block: 'center'});", target);
+
+	      // Step 4: Debug coordinates
+	      int windowHeight = driver.manage().window().getSize().getHeight();
+	      int targetY = target.getLocation().getY();
+	      int sourceY = source.getLocation().getY();
+
+	      System.out.println("Source Y: " + sourceY);
+	      System.out.println("Target Y: " + targetY);
+	      System.out.println("Window Height: " + windowHeight);
+
+	      if (targetY > windowHeight || targetY < 0) {
+	          throw new RuntimeException("Target element is out of visible bounds: Y=" + targetY);
+	      }
+	      
+
+	      // Step 5: Drag and drop
+	      Actions actions = new Actions(driver);
+	      actions.moveToElement(source)
+	             .clickAndHold()
+	             .pause(Duration.ofMillis(300))
+	             .moveToElement(target)
+	             .pause(Duration.ofMillis(300))
+	             .release()
+	             .build()
+	             .perform();
+	  }
+
 	  @Test(priority = 50, enabled = true) public void Column() throws
 	  InterruptedException { try { Thread.sleep(2000);
 	  driver.findElement(By.xpath(prop.getProperty("Column"))).clear();
