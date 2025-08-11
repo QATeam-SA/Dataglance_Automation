@@ -10,12 +10,15 @@
 	<test thread-count="5" name="Signin" enabled="true">
 		<classes>
 			<class name="testcases.Signin" />
-			<class name="testcases.Basiccontrol" />
-<class name="testcases.stepactionwithdataentries" />
-<class name="testcases.media" />
-	<class name="testcases.verification" />
-	<class name="testcases.executor" />
-	<class name="testcases.signout" />
+<!--			<class name="testcases.CBPEditor" />-->
+			<class name="testcases.DelayStep" />
+<!--			<class name="testcases.TimedStep" />-->
+<!--			<class name="testcases.Basiccontrol" />-->
+<!--<class name="testcases.stepactionwithdataentries" />-->
+<!--<class name="testcases.media" />-->
+<!--	<class name="testcases.verification" />-->
+<!--	<class name="testcases.executor" />-->
+<!--	<class name="testcases.signout" />-->
 
 		</classes>
 

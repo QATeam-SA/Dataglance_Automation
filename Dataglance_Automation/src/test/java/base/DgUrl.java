@@ -17,6 +17,6 @@ public class DgUrl {
 	        Thread.sleep(3000);
 	        driver.get(prop.getProperty("baseUR"));
 	        Thread.sleep(4000);
-	        System.out.println("Successfully landed  to data glance site ");
+	        System.out.println("Successfully landed  to data glance site test ");
 	}
 }

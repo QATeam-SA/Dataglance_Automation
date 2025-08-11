@@ -7,16 +7,11 @@
   </listeners>
   <test thread-count="5" name="Signin(failed)">
     <classes>
-      <class name="testcases.executor">
+      <class name="testcases.DelayStep">
         <methods>
-          <include name="Closebutton"/>
+          <include name="paragraph"/>
         </methods>
-      </class> <!-- testcases.executor -->
-      <class name="testcases.verification">
-        <methods>
-          <include name="initialverification"/>
-        </methods>
-      </class> <!-- testcases.verification -->
+      </class> <!-- testcases.DelayStep -->
     </classes>
   </test> <!-- Signin(failed) -->
 </suite> <!-- Failed suite [Suite] -->

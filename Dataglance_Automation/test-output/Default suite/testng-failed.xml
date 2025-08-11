@@ -5,7 +5,12 @@
     <classes>
       <class name="testcases.verification">
         <methods>
+          <include name="initialverification"/>
+          <include name="concurrentverification"/>
+          <include name="signatureverification"/>
           <include name="verification"/>
+          <include name="QAverification"/>
+          <include name="peerverification"/>
         </methods>
       </class> <!-- testcases.verification -->
     </classes>
