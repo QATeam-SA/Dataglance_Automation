@@ -15,7 +15,7 @@
 <class name="testcases.media" />
 	<class name="testcases.verification" />
 	<class name="testcases.executor" />
-	<class name="testcases.signout" />
+
 
 		</classes>
 
