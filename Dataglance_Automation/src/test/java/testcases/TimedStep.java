@@ -885,19 +885,19 @@ public void signaturestep()
              			
              			WebElement uploadInput2 = driver.findElement(By.xpath("//input[@class='input-upload']"));
              			uploadInput.sendKeys("C:\\Users\\janusha\\Pictures\\human1.jfif");
-             			Robot rb = new Robot();
-             			rb.delay(2000);
+             			//Robot rb = new Robot();
+             			//rb.delay(2000);
 
              			StringSelection ss = new StringSelection(prop.getProperty("path3"));
              			Toolkit.getDefaultToolkit().getSystemClipboard().setContents(ss, null);
-             			rb.keyPress(KeyEvent.VK_CONTROL);
-             			rb.keyPress(KeyEvent.VK_V);
-             			rb.delay(2000);
-             			rb.keyRelease(KeyEvent.VK_CONTROL);
-             			rb.keyRelease(KeyEvent.VK_V);
-             			rb.delay(2000);
-             			rb.keyPress(KeyEvent.VK_ENTER);
-             			rb.keyRelease(KeyEvent.VK_ENTER);
+             			//rb.keyPress(KeyEvent.VK_CONTROL);
+             			//rb.keyPress(KeyEvent.VK_V);
+             			//rb.delay(2000);
+             			//rb.keyRelease(KeyEvent.VK_CONTROL);
+             			//rb.keyRelease(KeyEvent.VK_V);
+             			//rb.delay(2000);
+             			//rb.keyPress(KeyEvent.VK_ENTER);
+             			//rb.keyRelease(KeyEvent.VK_ENTER);
              			//((JavascriptExecutor) driver).executeScript("window.scrollBy(0, 1000);"); // scroll down
              			((JavascriptExecutor) driver).executeScript("window.scrollBy(0, -500);"); // scroll up
 

@@ -11,8 +11,10 @@
 		<classes>
 			<class name="testcases.Signin" />
 <!--			<class name="testcases.CBPEditor" />-->
-			<class name="testcases.DelayStep" />
+<!--			<class name="testcases.DelayStep" />-->
 <!--			<class name="testcases.TimedStep" />-->
+<!--            <class name="testcases.RepeatStep" />-->
+<class name="testcases.StepInfo" />
 <!--			<class name="testcases.Basiccontrol" />-->
 <!--<class name="testcases.stepactionwithdataentries" />-->
 <!--<class name="testcases.media" />-->
