@@ -3,11 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testcases.verification">
+      <class name="testcases.media">
         <methods>
-          <include name="verification"/>
+          <include name="mediasingle"/>
+          <include name="mediagallery"/>
         </methods>
-      </class> <!-- testcases.verification -->
+      </class> <!-- testcases.media -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -17,7 +17,7 @@ public class ExtentManager {
 
     public static ExtentReports getInstance() {
         if (extent == null) {
-            String reportPath = "test-output/ExtentReport.html";
+            String reportPath = "test-output/DG_ExtentReport.html";
             ExtentSparkReporter sparkReporter = new ExtentSparkReporter(reportPath);
             extent = new ExtentReports();
             extent.attachReporter(sparkReporter);

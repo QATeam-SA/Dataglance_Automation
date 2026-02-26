@@ -7,16 +7,46 @@
   </listeners>
   <test thread-count="5" name="Signin(failed)">
     <classes>
-      <class name="testcases.executor">
+      <class name="testcases.Subsection">
         <methods>
-          <include name="Closebutton"/>
+          <include name="signaturestep"/>
+          <include name="Label"/>
+          <include name="Datatypedropdown12"/>
+          <include name="Timedstep"/>
+          <include name="subsection"/>
+          <include name="Holdstep"/>
+          <include name="Add"/>
+          <include name="Warning"/>
+          <include name="Datatypedropdown4"/>
+          <include name="Datatypedropdown2"/>
+          <include name="stepinfo"/>
+          <include name="Formula"/>
+          <include name="Datedataentry"/>
+          <include name="Column"/>
+          <include name="Column4"/>
+          <include name="Column5"/>
+          <include name="Datatypedropdown"/>
+          <include name="Column2"/>
+          <include name="Column3"/>
+          <include name="Note"/>
+          <include name="Caution"/>
+          <include name="Delaystep"/>
+          <include name="Numberdataentry"/>
+          <include name="Table"/>
+          <include name="Alara"/>
+          <include name="Textdataentry"/>
+          <include name="Paragrapgh"/>
+          <include name="Datedataentry1"/>
+          <include name="Ok"/>
+          <include name="stepaction"/>
+          <include name="Repeatstep"/>
+          <include name="Row"/>
+          <include name="Ok1"/>
+          <include name="Columnbutton"/>
+          <include name="Textareadataentry"/>
+          <include name="Dataentry"/>
         </methods>
-      </class> <!-- testcases.executor -->
-      <class name="testcases.verification">
-        <methods>
-          <include name="initialverification"/>
-        </methods>
-      </class> <!-- testcases.verification -->
+      </class> <!-- testcases.Subsection -->
     </classes>
   </test> <!-- Signin(failed) -->
 </suite> <!-- Failed suite [Suite] -->

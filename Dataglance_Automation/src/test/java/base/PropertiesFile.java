@@ -13,7 +13,9 @@ import org.apache.logging.log4j.Logger;
 //import org.apache.logging.log4j.core.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxOptions;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 
@@ -62,20 +64,39 @@ public class PropertiesFile {
                 FileReader input = new FileReader(System.getProperty("user.dir")+"\\src\\test\\resources\\dg_datafile.properties");
                 prop.load(input);
             }
-             if(prop.getProperty("Browser").equalsIgnoreCase("chrome")) {
-                    WebDriverManager.chromedriver().setup();
-                    driver = new ChromeDriver();
-                    driver.get(prop.getProperty("baseUrl"));
-                    
-                }
-                else if(prop.getProperty("Browser").equalsIgnoreCase("firefox")) {
-                    WebDriverManager.firefoxdriver().setup();
-                    driver = new FirefoxDriver();
-                    driver.get(prop.getProperty("baseUrl"));
-                    
+
+                    if (prop.getProperty("Browser").equalsIgnoreCase("chrome")) {
+                        WebDriverManager.chromedriver().setup();
+
+                        ChromeOptions options = new ChromeOptions();
+                        if (System.getenv("JENKINS_HOME") != null) {
+                            options.addArguments("--headless=new"); 
+                            options.addArguments("--no-sandbox");
+                            options.addArguments("--disable-dev-shm-usage");
+                            options.addArguments("--disable-gpu");
+                            logger.info("Running Chrome in headless mode on Jenkins.");
+                        }
+
+                        driver = new ChromeDriver(options);
+                        driver.get(prop.getProperty("baseUrl"));
+                    } 
+                    else if (prop.getProperty("Browser").equalsIgnoreCase("firefox")) {
+                        WebDriverManager.firefoxdriver().setup();
+
+                        FirefoxOptions options = new FirefoxOptions();
+                        if (System.getenv("JENKINS_HOME") != null) {
+                            options.addArguments("--headless");
+                            options.addArguments("--no-sandbox");
+                            options.addArguments("--disable-dev-shm-usage");
+                            logger.info("Running Firefox in headless mode on Jenkins.");
+                        }
+
+                        driver = new FirefoxDriver(options);
+                        driver.get(prop.getProperty("baseUrl"));
+                    }
                 }
              }
-    }
+    
     
     @AfterTest    
     public void tearDown() {

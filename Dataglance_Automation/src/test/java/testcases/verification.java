@@ -33,11 +33,11 @@ public class verification {
 	Thread.sleep(4000);
 	driver.findElement(By.xpath(prop.getProperty("stepaction"))).click();
 	Thread.sleep(6000);
-	WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(40));
-	WebElement textArea = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//textarea[@id='step239']")));
-	textArea.sendKeys("Verification");
+	WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(60));
+	driver.findElement(By.xpath("(//textarea[@placeholder='StepAction HEADER'])[4]")).sendKeys("step action");
 	Thread.sleep(6000);
 	driver.findElement(By.xpath(prop.getProperty("Verification1"))).click();
+	 // ((JavascriptExecutor) driver).executeScript("window.scrollBy(0, -500);");
 	/*
 	 * // Wait and click on the expand/collapse button WebDriverWait wait = new
 	 * WebDriverWait(driver, Duration.ofSeconds(30)); By buttonLocator = By.
@@ -79,6 +79,7 @@ public class verification {
 //Perform drag and drop
 	Actions actions = new Actions(driver);
 	actions.dragAndDrop(source, target).perform();
+	  ((JavascriptExecutor) driver).executeScript("window.scrollBy(0, -500);");
 
 }
 	@Test(priority = 3, enabled = true)
@@ -132,7 +133,25 @@ public class verification {
 	actions.dragAndDrop(source, target).perform();
 
 }
-	@Test(priority = 6, enabled = true)
+
+/*
+ * @Test(priority = 6, enabled = true) public void Zoom() throws
+ * InterruptedException { // Cast driver to JavascriptExecutor
+ * JavascriptExecutor js = (JavascriptExecutor) driver;
+ * 
+ * // Get initial zoom level String initialZoom =
+ * js.executeScript("return document.body.style.zoom || '1'").toString();
+ * System.out.println("Initial zoom level: " + initialZoom);
+ * 
+ * // Set zoom to 75% js.executeScript("document.body.style.zoom = '0.80'");
+ * Thread.sleep(1000);
+ * 
+ * // Get current zoom level String currentZoom =
+ * js.executeScript("return document.body.style.zoom").toString();
+ * System.out.println("Current zoom level after setting to 80%: " +
+ * currentZoom); }
+ */
+	@Test(priority = 7, enabled = true)
 	public void initialverification() throws InterruptedException, Exception {
 	Thread.sleep(2000);
 	Thread.sleep(4000);
@@ -149,11 +168,21 @@ public class verification {
 	actions.dragAndDrop(source, target).perform();
 	Thread.sleep(2000);
 
-	driver.findElement(By.xpath(prop.getProperty("Repeatstep"))).click();
-	Thread.sleep(8000);
+	WebDriverWait wait1 = new WebDriverWait(driver, Duration.ofSeconds(90));
+
+	WebElement repeatStep = wait.until(ExpectedConditions.elementToBeClickable(By.xpath(prop.getProperty("Repeatstep"))));
+	repeatStep.click();
+
+	Thread.sleep(8000); // optional, use wait instead if possible
+
+	WebElement repeat = wait.until(ExpectedConditions.elementToBeClickable(By.xpath(prop.getProperty("Repeat"))));
+	repeat.click();
 	driver.findElement(By.xpath(prop.getProperty("Repeat"))).sendKeys("2");
 	Thread.sleep(2000);
-	driver.findElement(By.xpath(prop.getProperty("preview"))).click();
+
+	WebElement preview = wait.until(ExpectedConditions.elementToBeClickable(By.xpath(prop.getProperty("preview"))));
+	preview.click();
+
 }
 	
 	
